@@ -43,7 +43,7 @@ The script prints a descriptive summary — the total number of journal entries,
 
 `How a reviewer — or you — confirms the work is correct. This part is fixed; keep the paragraph below.`
 
-The per-user counts the script produces match the answer key built by hand in Part 1, and `lab_02_cleaned.csv` passes the Lab 2 Output Validator with no issues.
+The per-user counts the script produces match the result you built by hand in Part 1, and `lab_02_cleaned.csv` passes the Lab 2 Output Validator with no issues.
 
 ## How this specification is graded
 
@@ -67,7 +67,7 @@ The per-user counts the script produces match the answer key built by hand in Pa
   - Evidence:
 - [ ] **SG-02 Specification Complete [OK/WARN/FIX]:** Input, Operations, and Edge cases are all filled in — specific, in order, with no vague verbs.
   - Evidence:
-- [ ] **SG-03 Output Matches the Answer Key [OK/WARN/FIX]:** The script's per-user count matches the count I produced by hand in Part 1.
+- [ ] **SG-03 Output Matches the By-Hand Result [OK/WARN/FIX]:** The script's per-user count matches the count I produced by hand in Part 1.
   - Evidence:
 - [ ] **SG-04 Validator Clean [OK/WARN/FIX]:** The Lab 2 Output Validator reports no issues on `lab_02_cleaned.csv`.
   - Evidence:
