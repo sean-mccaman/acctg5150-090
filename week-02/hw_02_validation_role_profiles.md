@@ -12,14 +12,17 @@ result when you say who is doing the work.
 
 **How to use one.**
 
-1. Open a fresh LLM session.
-2. Copy one of the role profiles below — everything inside the box.
-3. Paste it in. Then paste your Q1–Q9 answers.
-4. Ask: "Review my answers as the role described above."
-5. Read what it flags. Decide what you agree with. Write your validation note.
+1. Decide which role fits. Read all three profiles. Pick the one that best
+   matches the kind of check your work needs.
+2. Open a fresh LLM session.
+3. Copy that role profile — everything inside the box — and paste it in.
+4. Give it your work to review: paste your Q6–Q9 results, or your script and its
+   CSV output, or reopen the session where you did the analysis.
+5. Ask: "Review my work as the role described above."
+6. Read what it flags. Decide what you agree with. Write your validation note.
 
-You are not required to agree with the review. Judging whether it was right is
-part of HW 2.
+You are not required to agree with the review. Judging whether it was right —
+and whether you picked the right reviewer — is part of HW 2.
 
 ---
 
@@ -109,8 +112,8 @@ not just grade.
 
 ## A note on what this is teaching
 
-You are delegating a review — but only after defining who is doing it. That is
-the move: not "the AI checked my work," but "I set up an auditor, an accounting
-manager, and a tooling reviewer, and had each one check my work." The quality of the review
-came from the role you defined. Hold onto that. It is the same reason a vague
-prompt produces vague output and a precise one does not.
+You are delegating a review — but only after deciding who should do it. That is
+the move: not "the AI checked my work," but "I decided this work needed an
+auditor's eye, set that reviewer up, and had it check my work." The quality of
+the review came from the role you chose and defined. Hold onto that. It is the
+same reason a vague prompt produces vague output and a precise one does not.
