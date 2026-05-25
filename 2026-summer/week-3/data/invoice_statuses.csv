@@ -1,0 +1,5 @@
+status_id,status_name,description
+1,Open,Issued; payment not yet fully received.
+2,Partial,Issued; some payment received but balance remains.
+3,Paid,Issued; total payment received meets invoice amount.
+4,Void,Issued then cancelled; not a live receivable.
