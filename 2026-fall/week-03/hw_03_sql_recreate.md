@@ -76,7 +76,7 @@ When the numbers match, you are done with that question. When they do not, the d
 
 Lab 3 grading is generous and so is this. HW-01 and HW-02 are 7 points each, HW-03 through HW-08 are 8 points each, and the concept questions are 7 or 8 points each. Four short intake questions at the end carry the last 2 points. There is no auto-grade. Each response is read, and grades plus per-question feedback come back after the deadline.
 
-A query that runs cleanly and returns the expected row count earns full credit. A query that does not run, or that returns the wrong shape, loses marks. A concept answer that shows real understanding earns full credit. A generic answer that could have been written by anyone without doing the queries loses marks.
+Full credit needs the requested columns, the right rows or groups, and the right amounts. The row counts and totals in each question are checks, not the answer. A query can hit 1,404 rows and still be wrong. A query that does not run, or that returns the wrong shape, loses marks. A concept answer that shows real understanding earns full credit. A generic answer that could have been written by anyone without doing the queries loses marks.
 
 ## FAQ and gotchas
 
@@ -86,11 +86,11 @@ A query that runs cleanly and returns the expected row count earns full credit. 
 
 **My aging buckets have thousands of invoices in 90+.** You binned all 20,015 invoices. HW-07 is open invoices only, so start from HW-05. The counts should add to 1,404.
 
-**My invoice count is 18,666 instead of 20,015.** You used an INNER JOIN to payments. 1,349 invoices have no payment row at all. Use LEFT JOIN, then wrap `total_paid` in `COALESCE(total_paid, 0)` so the arithmetic works.
+**My invoice count is 18,666 instead of 20,015.** You used an INNER JOIN to the grouped payments CTE, which drops the 1,349 invoices that have no payment row. Use LEFT JOIN, then wrap `total_paid` in `COALESCE(total_paid, 0)` so the arithmetic works. If you see 18,667, you joined to the raw `payments` table instead of the grouped CTE, and the one invoice with two payment rows is counted twice.
 
 **My aging buckets are off by one day.** Use `julianday('2026-04-30') - julianday(due_date)` and bucket on that integer. The cutoff date is 2026-04-30 for everything in this week.
 
-**My distinct customer count is 1,499, not 1,500.** Check whether you have a stray WHERE clause filtering out a customer with only voided invoices. HW-02 is unfiltered; every customer with any invoice counts.
+**My distinct customer count is not 1,500.** Check for a stray WHERE clause. HW-02 is unfiltered; every customer with any invoice counts, and every one of the 1,500 customers has at least one invoice.
 
 **My SQL total matches Excel to the dollar but my row count is off.** Two different bugs can produce the same total. Trust the row count. If HW-04 does not return exactly 20,015 rows, the query is wrong even if the dollars happen to tie out.
 

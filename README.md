@@ -1,7 +1,9 @@
-# ACCTG 5150-090 — Course Data
+# Course Data: ACCTG 5150-090 (Summer 2026) and ACCTG 6155 (Fall 2026)
 
-Public datasets and assets for **ACCTG 5150-090 — Accounting Analytics**
-(Summer 2026), University of Utah, David Eccles School of Business.
+Public datasets, specs, and templates for **Accounting Analytics** at the
+University of Utah, David Eccles School of Business. `2026-summer/` and the
+top-level `week-NN/` folders belong to ACCTG 5150-090 (Summer 2026).
+`2026-fall/` belongs to **ACCTG 6155** (Fall 2026, sections 001 and 002).
 
 The data in this repository is **synthetic**. It contains no real or personally
 identifiable information. It is public so that student lab scripts can read it
