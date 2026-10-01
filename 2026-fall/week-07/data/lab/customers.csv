@@ -1,0 +1,1501 @@
+customer_id,customer_name,city,state,segment,terms_id
+C-01000,Ogden Valley Schools,Denver,CO,School District,2
+C-01001,Cottonwood Heights ISD,Casper,WY,School District,2
+C-01002,Uinta Highline Outfitters,Logan,UT,Outfitter,2
+C-01003,Holladay Bait & Tackle,Jackson,WY,Outfitter,2
+C-01004,Sage Brush Outfitters,Park City,UT,Outdoor Retail,4
+C-01005,Granite Peak Gear,Missoula,MT,Outdoor Retail,2
+C-01006,Glacier Trade Outpost,Las Vegas,NV,Outdoor Retail,3
+C-01007,Cache Valley Education Co-op,Idaho Falls,ID,School District,2
+C-01008,Lake Powell Houseboats,Phoenix,AZ,Outfitter,4
+C-01009,Timberline Sports,Durango,CO,Outdoor Retail,2
+C-01010,Iron County School District,Boulder,CO,School District,2
+C-01011,Cascade Outdoor Supply,Reno,NV,Outdoor Retail,2
+C-01012,Highline Outfitters,Sandy,UT,Outdoor Retail,3
+C-01013,Eagle Point Resort,Cedar City,UT,Resort,3
+C-01014,Lake Powell Houseboats Group,Idaho Falls,ID,Outfitter,1
+C-01015,Provo City School District,Tucson,AZ,School District,3
+C-01016,Ridge & Pine Sports,Bountiful,UT,Outdoor Retail,1
+C-01017,Alta Lodge Group,Carson City,NV,Resort,2
+C-01018,Highline Outfitters Group,Logan,UT,Outdoor Retail,3
+C-01019,Brighton Resort Co,Cottonwood Heights,UT,Resort,2
+C-01020,Granite Peak Gear Holdings,Casper,WY,Outdoor Retail,2
+C-01021,Bear Lake Charter Co,Boulder,CO,Outfitter,2
+C-01022,Boulder Field Sports,Aspen,CO,Outdoor Retail,3
+C-01023,Salt Lake City School District,Bountiful,UT,School District,2
+C-01024,Sundance Resort,Twin Falls,ID,Resort,1
+C-01025,Beaver Mountain Operations,Cedar City,UT,Resort,3
+C-01026,Brighton Resort Co Services,Carson City,NV,Resort,1
+C-01027,Deer Valley Hospitality,Bountiful,UT,Resort,2
+C-01028,Cottonwood Outdoors,Jackson,WY,Outdoor Retail,2
+C-01029,Highline Outfitters LLC,Las Vegas,NV,Outdoor Retail,2
+C-01030,Wasatch Adventure Co,Durango,CO,Outfitter,2
+C-01031,Salt Lake City School District Services,Provo,UT,School District,3
+C-01032,Echo Canyon Outdoor,Cedar City,UT,Outdoor Retail,1
+C-01033,Cascade Outdoor Supply Supply,Tooele,UT,Outdoor Retail,4
+C-01034,Provo City School District Group,Denver,CO,School District,3
+C-01035,Cache Valley Education Co-op Associates,Las Vegas,NV,School District,3
+C-01036,Park City School District,Bountiful,UT,School District,3
+C-01037,Holladay Bait & Tackle Services,Missoula,MT,Outfitter,3
+C-01038,Holladay Bait & Tackle Holdings,Helena,MT,Outfitter,2
+C-01039,Sage Brush Outfitters Associates,Las Vegas,NV,Outdoor Retail,3
+C-01040,Wasatch Mountain Goods,Salt Lake City,UT,Outdoor Retail,2
+C-01041,Powder Mountain Operations,Cedar City,UT,Resort,2
+C-01042,Iron County School District Co,Pocatello,ID,School District,3
+C-01043,Brighton Resort Co Group,Vail,CO,Resort,3
+C-01044,Iron County School District Partners,Idaho Falls,ID,School District,3
+C-01045,Highline Outfitters Partners,Logan,UT,Outdoor Retail,2
+C-01046,Timberline Sports Services,Tucson,AZ,Outdoor Retail,2
+C-01047,Granite School District,Boise,ID,School District,3
+C-01048,Granite Peak Gear Associates,Twin Falls,ID,Outdoor Retail,2
+C-01049,Alta Lodge Group Supply,Las Vegas,NV,Resort,4
+C-01050,Provo City School District Partners,St. George,UT,School District,1
+C-01051,Summit Edge Retail,Logan,UT,Outdoor Retail,2
+C-01052,Tooele County Schools,Vail,CO,School District,2
+C-01053,Park City Mountain Lodge,Tucson,AZ,Resort,3
+C-01054,Cache Valley Education Co-op Services,Phoenix,AZ,School District,3
+C-01055,Uinta Highline Outfitters Holdings,Reno,NV,Outfitter,1
+C-01056,Ogden Valley Schools Associates,Cedar City,UT,School District,2
+C-01057,Lake Powell Houseboats LLC,Flagstaff,AZ,Outfitter,2
+C-01058,Ogden Valley Schools Inc,Reno,NV,School District,2
+C-01059,Timberline Sports Inc,Idaho Falls,ID,Outdoor Retail,2
+C-01060,Granite Peak Gear Inc,Tooele,UT,Outdoor Retail,2
+C-01061,Pinnacle Outdoor Group,Aspen,CO,Outdoor Retail,3
+C-01062,Cottonwood Outdoors LLC,Aspen,CO,Outdoor Retail,2
+C-01063,Wasatch Mountain Goods LLC,Cottonwood Heights,UT,Outdoor Retail,2
+C-01064,Holladay Bait & Tackle Associates,Flagstaff,AZ,Outfitter,2
+C-01065,Cottonwood Outdoors Partners,Vail,CO,Outdoor Retail,4
+C-01066,Boulder Field Sports Supply,Cedar City,UT,Outdoor Retail,2
+C-01067,Boulder Field Sports Services,Cottonwood Heights,UT,Outdoor Retail,2
+C-01068,Beaver Mountain Operations Inc,Idaho Falls,ID,Resort,2
+C-01069,Salt Lake City School District Associates,Boise,ID,School District,3
+C-01070,Provo City School District LLC,Bozeman,MT,School District,2
+C-01071,Park City Mountain Lodge Supply,Phoenix,AZ,Resort,3
+C-01072,Sundance Resort Partners,Moab,UT,Resort,2
+C-01073,Cottonwood Heights ISD Supply,Ogden,UT,School District,3
+C-01074,Summit Edge Retail LLC,Layton,UT,Outdoor Retail,2
+C-01075,Boulder Field Sports Co,Missoula,MT,Outdoor Retail,2
+C-01076,Boulder Field Sports LLC,Denver,CO,Outdoor Retail,3
+C-01077,Ridge & Pine Sports LLC,Denver,CO,Outdoor Retail,2
+C-01078,Powder Mountain Operations Associates,Missoula,MT,Resort,3
+C-01079,Salt Lake City School District Holdings,Vail,CO,School District,2
+C-01080,Mirror Lake Outfitters,Helena,MT,Outfitter,4
+C-01081,Brighton Resort Co Supply,Cedar City,UT,Resort,3
+C-01082,Big Cottonwood Guide Service,Park City,UT,Outfitter,4
+C-01083,Salt Lake City School District Group,Logan,UT,School District,2
+C-01084,Summit Edge Retail Supply,Layton,UT,Outdoor Retail,2
+C-01085,Salt Lake City School District Inc,Cheyenne,WY,School District,3
+C-01086,Davis County Schools,Idaho Falls,ID,School District,3
+C-01087,Wasatch Mountain Goods Holdings,Las Vegas,NV,Outdoor Retail,3
+C-01088,Cottonwood Outdoors Group,Boise,ID,Outdoor Retail,2
+C-01089,Riverbend Outdoors,Cottonwood Heights,UT,Outdoor Retail,2
+C-01090,Uinta Highline Outfitters Inc,Denver,CO,Outfitter,4
+C-01091,Sundance Resort Supply,Logan,UT,Resort,2
+C-01092,Highline Outfitters Co,Vail,CO,Outdoor Retail,3
+C-01093,Salt Lake City School District Supply,Cheyenne,WY,School District,2
+C-01094,Holladay Bait & Tackle LLC,Bountiful,UT,Outfitter,4
+C-01095,Deer Valley Hospitality Services,Helena,MT,Resort,4
+C-01096,Park City School District Associates,Layton,UT,School District,3
+C-01097,Park City Mountain Lodge Group,Logan,UT,Resort,2
+C-01098,Summit Edge Retail Co,Idaho Falls,ID,Outdoor Retail,1
+C-01099,Pinnacle Outdoor Group Partners,Reno,NV,Outdoor Retail,2
+C-01100,Summit Edge Retail Inc,Ogden,UT,Outdoor Retail,2
+C-01101,Park City Mountain Lodge Inc,Boulder,CO,Resort,2
+C-01102,Echo Canyon Outdoor LLC,Durango,CO,Outdoor Retail,2
+C-01103,Bear Lake Charter Co Holdings,Flagstaff,AZ,Outfitter,4
+C-01104,Big Cottonwood Guide Service Holdings,Layton,UT,Outfitter,2
+C-01105,Strawberry Reservoir Charter,Vernal,UT,Outfitter,1
+C-01106,Cottonwood Outdoors Associates,Cottonwood Heights,UT,Outdoor Retail,2
+C-01107,Granite Peak Gear Group,Boulder,CO,Outdoor Retail,2
+C-01108,Cache Valley Education Co-op Group,Boise,ID,School District,3
+C-01109,Provo City School District Services,Denver,CO,School District,2
+C-01110,Provo Canyon Guides,Jackson,WY,Outfitter,2
+C-01111,Wasatch Mountain Goods Group,Bountiful,UT,Outdoor Retail,2
+C-01112,Cache Valley Education Co-op Supply,Helena,MT,School District,2
+C-01113,Brighton Resort Co LLC,Vail,CO,Resort,2
+C-01114,Ridge & Pine Sports Services,Tooele,UT,Outdoor Retail,2
+C-01115,Cache Valley Education Co-op Partners,Casper,WY,School District,1
+C-01116,Basin Outdoor Co,Vernal,UT,Outdoor Retail,2
+C-01117,Park City School District LLC,Reno,NV,School District,3
+C-01118,Riverbend Outdoors Associates,Boulder,CO,Outdoor Retail,3
+C-01119,Echo Canyon Outdoor Partners,Phoenix,AZ,Outdoor Retail,2
+C-01120,Cottonwood Outdoors Supply,Bozeman,MT,Outdoor Retail,2
+C-01121,Pinnacle Outdoor Group Supply,Flagstaff,AZ,Outdoor Retail,2
+C-01122,Beaver Mountain Operations Group,Provo,UT,Resort,2
+C-01123,Ogden Valley Schools Holdings,Vernal,UT,School District,3
+C-01124,Cottonwood Heights ISD Associates,Missoula,MT,School District,2
+C-01125,Brian Head Resort,Provo,UT,Resort,1
+C-01126,Riverbend Outdoors Group,Cottonwood Heights,UT,Outdoor Retail,2
+C-01127,Mirror Lake Outfitters Group,Reno,NV,Outfitter,3
+C-01128,Big Cottonwood Guide Service Inc,Cedar City,UT,Outfitter,1
+C-01129,Powder Mountain Operations Group,Cottonwood Heights,UT,Resort,2
+C-01130,Granite Peak Gear Partners,Las Vegas,NV,Outdoor Retail,1
+C-01131,Glacier Trade Outpost Inc,Idaho Falls,ID,Outdoor Retail,3
+C-01132,Strawberry Reservoir Charter LLC,Vernal,UT,Outfitter,2
+C-01133,Echo Canyon Outdoor Associates,Idaho Falls,ID,Outdoor Retail,2
+C-01134,Echo Canyon Outdoor Group,Cottonwood Heights,UT,Outdoor Retail,2
+C-01135,Park City School District Group,Logan,UT,School District,2
+C-01136,Pinnacle Outdoor Group Holdings,Flagstaff,AZ,Outdoor Retail,3
+C-01137,Granite Peak Gear Supply,Park City,UT,Outdoor Retail,2
+C-01138,Cottonwood Heights ISD Services,Reno,NV,School District,2
+C-01139,Cache Valley Education Co-op LLC,Phoenix,AZ,School District,3
+C-01140,Wasatch County School District,Aspen,CO,School District,3
+C-01141,Tooele County Schools Associates,Helena,MT,School District,2
+C-01142,Moab Desert Outfitters,Tooele,UT,Outfitter,2
+C-01143,Wasatch County School District Holdings,Vail,CO,School District,2
+C-01144,Ogden Valley Schools LLC,Carson City,NV,School District,3
+C-01145,Wasatch County School District LLC,Phoenix,AZ,School District,2
+C-01146,Basin Outdoor Co Partners,Reno,NV,Outdoor Retail,3
+C-01147,Timberline Sports Co,Provo,UT,Outdoor Retail,2
+C-01148,Salt Lake City School District LLC,Durango,CO,School District,2
+C-01149,Provo City School District Supply,Cottonwood Heights,UT,School District,3
+C-01150,Sage Brush Outfitters Group,Heber City,UT,Outdoor Retail,2
+C-01151,Glacier Trade Outpost Partners,Denver,CO,Outdoor Retail,3
+C-01152,Iron County School District Inc,Casper,WY,School District,3
+C-01153,Riverbend Outdoors Partners,Reno,NV,Outdoor Retail,3
+C-01154,Beaver Mountain Operations Partners,Boulder,CO,Resort,2
+C-01155,Brighton Resort Co Holdings,Phoenix,AZ,Resort,2
+C-01156,Riverbend Outdoors Services,Boise,ID,Outdoor Retail,3
+C-01157,Holladay Bait & Tackle Group,Heber City,UT,Outfitter,3
+C-01158,Sage Brush Outfitters LLC,Vernal,UT,Outdoor Retail,2
+C-01159,Granite School District Supply,Denver,CO,School District,2
+C-01160,Deer Valley Hospitality LLC,Provo,UT,Resort,3
+C-01161,Lake Powell Houseboats Inc,Pocatello,ID,Outfitter,1
+C-01162,Timberline Sports Group,Boulder,CO,Outdoor Retail,3
+C-01163,Riverbend Outdoors LLC,Bountiful,UT,Outdoor Retail,2
+C-01164,Highline Outfitters Supply,Ogden,UT,Outdoor Retail,3
+C-01165,Glacier Trade Outpost Group,Idaho Falls,ID,Outdoor Retail,2
+C-01166,Glacier Trade Outpost Services,Flagstaff,AZ,Outdoor Retail,2
+C-01167,Cottonwood Outdoors Services,Missoula,MT,Outdoor Retail,2
+C-01168,Provo Canyon Guides Group,Layton,UT,Outfitter,1
+C-01169,Riverbend Outdoors Supply,Provo,UT,Outdoor Retail,2
+C-01170,Cascade Outdoor Supply LLC,Flagstaff,AZ,Outdoor Retail,2
+C-01171,Glacier Trade Outpost LLC,Bountiful,UT,Outdoor Retail,2
+C-01172,Echo Canyon Outdoor Holdings,Idaho Falls,ID,Outdoor Retail,2
+C-01173,Brighton Resort Co Inc,Sandy,UT,Resort,1
+C-01174,Snowbird Resort Operations,Cheyenne,WY,Resort,3
+C-01175,Brian Head Resort Supply,Boise,ID,Resort,2
+C-01176,Granite School District Services,St. George,UT,School District,3
+C-01177,Salt Lake City School District Co,Layton,UT,School District,3
+C-01178,Park City Mountain Lodge Services,Carson City,NV,Resort,1
+C-01179,Summit Edge Retail Holdings,Park City,UT,Outdoor Retail,2
+C-01180,Holladay Bait & Tackle Co,Vail,CO,Outfitter,4
+C-01181,Granite Peak Gear Co,Bozeman,MT,Outdoor Retail,2
+C-01182,Davis County Schools Holdings,St. George,UT,School District,3
+C-01183,Solitude Mountain Group,Casper,WY,Resort,2
+C-01184,Boulder Field Sports Inc,Vail,CO,Outdoor Retail,2
+C-01185,Davis County Schools Group,Las Vegas,NV,School District,3
+C-01186,Iron County School District Services,Bountiful,UT,School District,3
+C-01187,Iron County School District Associates,Phoenix,AZ,School District,2
+C-01188,Cottonwood Outdoors Co,Aspen,CO,Outdoor Retail,2
+C-01189,Sage Brush Outfitters Holdings,Vernal,UT,Outdoor Retail,2
+C-01190,Cottonwood Outdoors Inc,Helena,MT,Outdoor Retail,2
+C-01191,Brian Head Resort Associates,Las Vegas,NV,Resort,2
+C-01192,Tooele County Schools Co,Park City,UT,School District,3
+C-01193,Holladay Bait & Tackle Inc,Durango,CO,Outfitter,4
+C-01194,Sundance Resort Services,Logan,UT,Resort,2
+C-01195,Brian Head Resort Inc,Las Vegas,NV,Resort,2
+C-01196,Wasatch Mountain Goods Associates,Jackson,WY,Outdoor Retail,2
+C-01197,Tooele County Schools Inc,Pocatello,ID,School District,3
+C-01198,Sage Brush Outfitters Co,Idaho Falls,ID,Outdoor Retail,2
+C-01199,Granite School District LLC,Las Vegas,NV,School District,2
+C-01200,Wasatch County School District Co,Helena,MT,School District,3
+C-01201,Iron County School District Holdings,Flagstaff,AZ,School District,3
+C-01202,Highline Outfitters Services,Reno,NV,Outdoor Retail,3
+C-01203,Deer Valley Hospitality Partners,Bountiful,UT,Resort,2
+C-01204,Ogden Valley Schools Co,Bountiful,UT,School District,3
+C-01205,Ogden Valley Schools Supply,Heber City,UT,School District,2
+C-01206,Tooele County Schools Services,Tucson,AZ,School District,3
+C-01207,Powder Mountain Operations Partners,Reno,NV,Resort,2
+C-01208,Highline Outfitters Associates,Reno,NV,Outdoor Retail,3
+C-01209,Cache Valley Education Co-op Holdings,Reno,NV,School District,2
+C-01210,Sage Brush Outfitters Inc,Tooele,UT,Outdoor Retail,2
+C-01211,Highline Outfitters Holdings,Ogden,UT,Outdoor Retail,2
+C-01212,Beaver Mountain Operations Holdings,Park City,UT,Resort,3
+C-01213,Sundance Resort Associates,Vail,CO,Resort,2
+C-01214,Logan River Outfitters,Ogden,UT,Outfitter,2
+C-01215,Pinnacle Outdoor Group Services,Carson City,NV,Outdoor Retail,2
+C-01216,Tooele County Schools LLC,Vail,CO,School District,3
+C-01217,Summit Edge Retail Services,St. George,UT,Outdoor Retail,2
+C-01218,Cottonwood Outdoors Holdings,Sandy,UT,Outdoor Retail,2
+C-01219,Timberline Sports Partners,Idaho Falls,ID,Outdoor Retail,2
+C-01220,Echo Canyon Outdoor Inc,Ogden,UT,Outdoor Retail,3
+C-01221,Echo Canyon Outdoor Services,Pocatello,ID,Outdoor Retail,2
+C-01222,Bear Lake Charter Co Group,Bountiful,UT,Outfitter,4
+C-01223,Granite School District Holdings,Bountiful,UT,School District,3
+C-01224,Sage Brush Outfitters Supply,Cedar City,UT,Outdoor Retail,2
+C-01225,Timberline Sports Associates,Cottonwood Heights,UT,Outdoor Retail,2
+C-01226,Logan River Outfitters Holdings,Jackson,WY,Outfitter,3
+C-01227,Lake Powell Houseboats Holdings,Park City,UT,Outfitter,2
+C-01228,Ridge & Pine Sports Group,Las Vegas,NV,Outdoor Retail,2
+C-01229,Timberline Sports Supply,Missoula,MT,Outdoor Retail,2
+C-01230,Sage Brush Outfitters Partners,Cheyenne,WY,Outdoor Retail,3
+C-01231,Logan River Outfitters Services,Helena,MT,Outfitter,2
+C-01232,Granite Peak Gear LLC,Tooele,UT,Outdoor Retail,3
+C-01233,Summit Edge Retail Associates,Bozeman,MT,Outdoor Retail,2
+C-01234,Sage Brush Outfitters Services,Provo,UT,Outdoor Retail,3
+C-01235,Summit Edge Retail Group,Vail,CO,Outdoor Retail,3
+C-01236,Park City Mountain Lodge Holdings,Idaho Falls,ID,Resort,2
+C-01237,Ridge & Pine Sports Partners,Sandy,UT,Outdoor Retail,2
+C-01238,Sundance Resort LLC,Missoula,MT,Resort,1
+C-01239,Brighton Resort Co Partners,Bountiful,UT,Resort,2
+C-01240,Provo City School District Inc,Las Vegas,NV,School District,3
+C-01241,Timberline Sports Holdings,Pocatello,ID,Outdoor Retail,2
+C-01242,Lake Powell Houseboats Co,Aspen,CO,Outfitter,2
+C-01243,Park City School District Holdings,Twin Falls,ID,School District,2
+C-01244,Davis County Schools Services,Park City,UT,School District,3
+C-01245,Summit Edge Retail Partners,Carson City,NV,Outdoor Retail,2
+C-01246,Snowbird Resort Operations Co,Layton,UT,Resort,1
+C-01247,Pinnacle Outdoor Group LLC,Sandy,UT,Outdoor Retail,2
+C-01248,Eagle Point Resort Inc,Vail,CO,Resort,2
+C-01249,Riverbend Outdoors Holdings,Vernal,UT,Outdoor Retail,1
+C-01250,Deer Valley Hospitality Holdings,St. George,UT,Resort,1
+C-01251,Cottonwood Heights ISD Partners,Cedar City,UT,School District,3
+C-01252,Wasatch County School District Services,Missoula,MT,School District,3
+C-01253,Granite Peak Gear Services,St. George,UT,Outdoor Retail,3
+C-01254,Beaver Mountain Operations Associates,Reno,NV,Resort,3
+C-01255,Wasatch County School District Inc,Aspen,CO,School District,3
+C-01256,Glacier Trade Outpost Holdings,Vernal,UT,Outdoor Retail,2
+C-01257,Granite Peak Gear #2,Boise,ID,Outdoor Retail,3
+C-01258,Cache Valley Education Co-op Inc,Bozeman,MT,School District,3
+C-01259,Pinnacle Outdoor Group Associates,Las Vegas,NV,Outdoor Retail,4
+C-01260,Mirror Lake Outfitters Services,Helena,MT,Outfitter,2
+C-01261,Alta Lodge Group Services,Tucson,AZ,Resort,2
+C-01262,Pinnacle Outdoor Group Group,Salt Lake City,UT,Outdoor Retail,2
+C-01263,Park City Mountain Lodge Co,Sandy,UT,Resort,3
+C-01264,Deer Valley Hospitality Co,Pocatello,ID,Resort,2
+C-01265,Basin Outdoor Co Holdings,Phoenix,AZ,Outdoor Retail,3
+C-01266,Glacier Trade Outpost Associates,Denver,CO,Outdoor Retail,2
+C-01267,Cascade Outdoor Supply Partners,Provo,UT,Outdoor Retail,2
+C-01268,Echo Canyon Outdoor Co,Salt Lake City,UT,Outdoor Retail,3
+C-01269,Eagle Point Resort Partners,St. George,UT,Resort,4
+C-01270,Granite Peak Gear #3,Tucson,AZ,Outdoor Retail,2
+C-01271,Brian Head Resort LLC,Flagstaff,AZ,Resort,3
+C-01272,Mirror Lake Outfitters Inc,Sandy,UT,Outfitter,2
+C-01273,Boulder Field Sports Partners,Carson City,NV,Outdoor Retail,2
+C-01274,Echo Canyon Outdoor Supply,Denver,CO,Outdoor Retail,2
+C-01275,Pinnacle Outdoor Group Co,Logan,UT,Outdoor Retail,2
+C-01276,Park City Mountain Lodge Partners,Sandy,UT,Resort,2
+C-01277,Glacier Trade Outpost Supply,Reno,NV,Outdoor Retail,2
+C-01278,Park City School District Supply,Denver,CO,School District,3
+C-01279,Strawberry Reservoir Charter Group,Cottonwood Heights,UT,Outfitter,2
+C-01280,Cache Valley Education Co-op Co,Cedar City,UT,School District,2
+C-01281,Echo Canyon Outdoor #2,Phoenix,AZ,Outdoor Retail,3
+C-01282,Brian Head Resort Partners,Cedar City,UT,Resort,2
+C-01283,Lake Powell Houseboats Partners,Moab,UT,Outfitter,2
+C-01284,Basin Outdoor Co Inc,Bozeman,MT,Outdoor Retail,1
+C-01285,Salt Lake City School District Partners,Casper,WY,School District,3
+C-01286,Alta Lodge Group Co,Vernal,UT,Resort,3
+C-01287,Summit Edge Retail #2,Aspen,CO,Outdoor Retail,3
+C-01288,Brian Head Resort Group,Flagstaff,AZ,Resort,2
+C-01289,Provo City School District Co,Twin Falls,ID,School District,2
+C-01290,Brighton Resort Co Associates,Twin Falls,ID,Resort,3
+C-01291,Snowbird Resort Operations Services,Casper,WY,Resort,2
+C-01292,Logan River Outfitters Partners,Boulder,CO,Outfitter,1
+C-01293,Cottonwood Heights ISD LLC,Casper,WY,School District,2
+C-01294,Sage Brush Outfitters #2,Jackson,WY,Outdoor Retail,3
+C-01295,Summit Edge Retail #3,Layton,UT,Outdoor Retail,2
+C-01296,Iron County School District Group,St. George,UT,School District,3
+C-01297,Cache Valley Education Co-op #2,Phoenix,AZ,School District,3
+C-01298,Pinnacle Outdoor Group Inc,Pocatello,ID,Outdoor Retail,3
+C-01299,Deer Valley Hospitality Group,Flagstaff,AZ,Resort,3
+C-01300,Riverbend Outdoors Co,St. George,UT,Outdoor Retail,2
+C-01301,Provo City School District Associates,Tucson,AZ,School District,3
+C-01302,Cottonwood Heights ISD Co,Bountiful,UT,School District,3
+C-01303,Basin Outdoor Co Associates,Bozeman,MT,Outdoor Retail,2
+C-01304,Snowbird Resort Operations Supply,Cottonwood Heights,UT,Resort,2
+C-01305,Holladay Bait & Tackle Partners,Vail,CO,Outfitter,2
+C-01306,Cache Valley Education Co-op #3,Idaho Falls,ID,School District,3
+C-01307,Park City Mountain Lodge #2,Boulder,CO,Resort,3
+C-01308,Park City School District Partners,Aspen,CO,School District,3
+C-01309,Ogden Valley Schools Partners,Cedar City,UT,School District,3
+C-01310,Summit Edge Retail #4,Reno,NV,Outdoor Retail,2
+C-01311,Sage Brush Outfitters #3,St. George,UT,Outdoor Retail,2
+C-01312,Deer Valley Hospitality Associates,Aspen,CO,Resort,3
+C-01313,Glacier Trade Outpost Co,Flagstaff,AZ,Outdoor Retail,2
+C-01314,Wasatch County School District Partners,Salt Lake City,UT,School District,2
+C-01315,Salt Lake City School District #2,Boise,ID,School District,3
+C-01316,Snowbird Resort Operations Group,Durango,CO,Resort,3
+C-01317,Basin Outdoor Co Supply,St. George,UT,Outdoor Retail,1
+C-01318,Bear Lake Charter Co Services,Moab,UT,Outfitter,4
+C-01319,Brighton Resort Co Co,Twin Falls,ID,Resort,2
+C-01320,Boulder Field Sports Group,Cottonwood Heights,UT,Outdoor Retail,3
+C-01321,Cache Valley Education Co-op #4,Phoenix,AZ,School District,3
+C-01322,Wasatch Mountain Goods Co,Reno,NV,Outdoor Retail,3
+C-01323,Granite School District Associates,Sandy,UT,School District,3
+C-01324,Granite School District Group,St. George,UT,School District,3
+C-01325,Ridge & Pine Sports Associates,Tucson,AZ,Outdoor Retail,2
+C-01326,Sundance Resort Inc,Cheyenne,WY,Resort,1
+C-01327,Brighton Resort Co #2,Jackson,WY,Resort,3
+C-01328,Mirror Lake Outfitters Holdings,Jackson,WY,Outfitter,1
+C-01329,Eagle Point Resort LLC,Tucson,AZ,Resort,2
+C-01330,Park City School District Co,Cottonwood Heights,UT,School District,2
+C-01331,Cottonwood Outdoors #2,Sandy,UT,Outdoor Retail,1
+C-01332,Glacier Trade Outpost #2,Twin Falls,ID,Outdoor Retail,2
+C-01333,Granite School District Co,Helena,MT,School District,2
+C-01334,Snowbird Resort Operations Partners,Casper,WY,Resort,2
+C-01335,Solitude Mountain Group Group,Park City,UT,Resort,3
+C-01336,Glacier Trade Outpost #3,Provo,UT,Outdoor Retail,3
+C-01337,Ridge & Pine Sports Supply,Vernal,UT,Outdoor Retail,1
+C-01338,Powder Mountain Operations Supply,Park City,UT,Resort,1
+C-01339,Powder Mountain Operations Co,Heber City,UT,Resort,3
+C-01340,Deer Valley Hospitality Supply,Heber City,UT,Resort,1
+C-01341,Cache Valley Education Co-op #5,Las Vegas,NV,School District,2
+C-01342,Strawberry Reservoir Charter Inc,Twin Falls,ID,Outfitter,2
+C-01343,Wasatch Adventure Co Partners,Reno,NV,Outfitter,1
+C-01344,Wasatch County School District Associates,St. George,UT,School District,3
+C-01345,Cascade Outdoor Supply Associates,Missoula,MT,Outdoor Retail,2
+C-01346,Granite School District Inc,Moab,UT,School District,3
+C-01347,Granite Peak Gear #4,Boulder,CO,Outdoor Retail,2
+C-01348,Riverbend Outdoors Inc,Missoula,MT,Outdoor Retail,2
+C-01349,Cascade Outdoor Supply Co,Cheyenne,WY,Outdoor Retail,2
+C-01350,Snowbird Resort Operations Holdings,Helena,MT,Resort,4
+C-01351,Sundance Resort Holdings,Salt Lake City,UT,Resort,2
+C-01352,Tooele County Schools Supply,Layton,UT,School District,2
+C-01353,Provo City School District Holdings,Helena,MT,School District,3
+C-01354,Summit Edge Retail #5,Boulder,CO,Outdoor Retail,2
+C-01355,Park City School District Inc,Cottonwood Heights,UT,School District,2
+C-01356,Salt Lake City School District #3,Helena,MT,School District,3
+C-01357,Mirror Lake Outfitters Supply,Las Vegas,NV,Outfitter,1
+C-01358,Cascade Outdoor Supply Group,Park City,UT,Outdoor Retail,2
+C-01359,Basin Outdoor Co Group,Bountiful,UT,Outdoor Retail,1
+C-01360,Cascade Outdoor Supply Services,Aspen,CO,Outdoor Retail,2
+C-01361,Provo City School District #2,Sandy,UT,School District,2
+C-01362,Ridge & Pine Sports Inc,Denver,CO,Outdoor Retail,1
+C-01363,Provo City School District #3,Twin Falls,ID,School District,1
+C-01364,Salt Lake City School District #4,Phoenix,AZ,School District,3
+C-01365,Timberline Sports LLC,Aspen,CO,Outdoor Retail,2
+C-01366,Snowbird Resort Operations LLC,Casper,WY,Resort,2
+C-01367,Sage Brush Outfitters #4,Durango,CO,Outdoor Retail,3
+C-01368,Park City Mountain Lodge Associates,Helena,MT,Resort,2
+C-01369,Davis County Schools Supply,Bountiful,UT,School District,1
+C-01370,Sage Brush Outfitters #5,Missoula,MT,Outdoor Retail,2
+C-01371,Summit Edge Retail #6,Twin Falls,ID,Outdoor Retail,3
+C-01372,Cache Valley Education Co-op #6,Phoenix,AZ,School District,3
+C-01373,Brighton Resort Co #3,Carson City,NV,Resort,1
+C-01374,Wasatch Mountain Goods Supply,Tooele,UT,Outdoor Retail,3
+C-01375,Iron County School District LLC,Las Vegas,NV,School District,2
+C-01376,Boulder Field Sports Holdings,Layton,UT,Outdoor Retail,2
+C-01377,Moab Desert Outfitters Inc,Reno,NV,Outfitter,4
+C-01378,Moab Desert Outfitters Co,Tooele,UT,Outfitter,4
+C-01379,Lake Powell Houseboats Associates,Tucson,AZ,Outfitter,2
+C-01380,Big Cottonwood Guide Service Group,Reno,NV,Outfitter,2
+C-01381,Cottonwood Heights ISD Inc,Aspen,CO,School District,2
+C-01382,Davis County Schools Co,Twin Falls,ID,School District,2
+C-01383,Ridge & Pine Sports Holdings,Boulder,CO,Outdoor Retail,2
+C-01384,Ogden Valley Schools Group,Jackson,WY,School District,1
+C-01385,Wasatch Mountain Goods Services,Bountiful,UT,Outdoor Retail,3
+C-01386,Boulder Field Sports Associates,Logan,UT,Outdoor Retail,1
+C-01387,Solitude Mountain Group Co,Vail,CO,Resort,2
+C-01388,Riverbend Outdoors #2,Reno,NV,Outdoor Retail,3
+C-01389,Cascade Outdoor Supply Inc,Flagstaff,AZ,Outdoor Retail,1
+C-01390,Cottonwood Outdoors #3,Cheyenne,WY,Outdoor Retail,3
+C-01391,Echo Canyon Outdoor #3,Twin Falls,ID,Outdoor Retail,3
+C-01392,Wasatch County School District Supply,Park City,UT,School District,1
+C-01393,Basin Outdoor Co Co,Sandy,UT,Outdoor Retail,3
+C-01394,Bear Lake Charter Co Co,Aspen,CO,Outfitter,1
+C-01395,Wasatch County School District Group,Idaho Falls,ID,School District,3
+C-01396,Beaver Mountain Operations Co,Carson City,NV,Resort,2
+C-01397,Deer Valley Hospitality Inc,Denver,CO,Resort,3
+C-01398,Pinnacle Outdoor Group #2,Park City,UT,Outdoor Retail,2
+C-01399,Ridge & Pine Sports Co,Tooele,UT,Outdoor Retail,3
+C-01400,Big Cottonwood Guide Service Supply,Ogden,UT,Outfitter,2
+C-01401,Park City Mountain Lodge LLC,Cedar City,UT,Resort,2
+C-01402,Beaver Mountain Operations Services,Park City,UT,Resort,2
+C-01403,Holladay Bait & Tackle Supply,Ogden,UT,Outfitter,1
+C-01404,Wasatch Adventure Co Associates,Durango,CO,Outfitter,2
+C-01405,Ogden Valley Schools Services,Idaho Falls,ID,School District,3
+C-01406,Bear Lake Charter Co Inc,Vail,CO,Outfitter,2
+C-01407,Highline Outfitters Inc,Tucson,AZ,Outdoor Retail,2
+C-01408,Sundance Resort Group,Salt Lake City,UT,Resort,3
+C-01409,Solitude Mountain Group Holdings,Denver,CO,Resort,3
+C-01410,Boulder Field Sports #2,Bozeman,MT,Outdoor Retail,3
+C-01411,Snowbird Resort Operations Associates,Logan,UT,Resort,3
+C-01412,Salt Lake City School District #5,Vail,CO,School District,3
+C-01413,Wasatch County School District #2,Flagstaff,AZ,School District,2
+C-01414,Echo Canyon Outdoor #4,Bozeman,MT,Outdoor Retail,2
+C-01415,Brian Head Resort Co,Moab,UT,Resort,4
+C-01416,Granite Peak Gear #5,Twin Falls,ID,Outdoor Retail,2
+C-01417,Basin Outdoor Co Services,Denver,CO,Outdoor Retail,4
+C-01418,Uinta Highline Outfitters Supply,Moab,UT,Outfitter,4
+C-01419,Sundance Resort Co,Carson City,NV,Resort,3
+C-01420,Granite Peak Gear #6,Jackson,WY,Outdoor Retail,3
+C-01421,Mirror Lake Outfitters Co,Missoula,MT,Outfitter,2
+C-01422,Ogden Valley Schools #2,Jackson,WY,School District,2
+C-01423,Park City School District Services,Sandy,UT,School District,2
+C-01424,Moab Desert Outfitters Associates,Provo,UT,Outfitter,4
+C-01425,Pinnacle Outdoor Group #3,Helena,MT,Outdoor Retail,2
+C-01426,Cottonwood Outdoors #4,Logan,UT,Outdoor Retail,3
+C-01427,Sage Brush Outfitters #6,Park City,UT,Outdoor Retail,2
+C-01428,Deer Valley Hospitality #2,Logan,UT,Resort,2
+C-01429,Solitude Mountain Group Supply,Park City,UT,Resort,2
+C-01430,Uinta Highline Outfitters Co,Pocatello,ID,Outfitter,3
+C-01431,Sundance Resort #2,Reno,NV,Resort,2
+C-01432,Cascade Outdoor Supply Holdings,Bozeman,MT,Outdoor Retail,2
+C-01433,Lake Powell Houseboats Supply,Tooele,UT,Outfitter,3
+C-01434,Bear Lake Charter Co LLC,Salt Lake City,UT,Outfitter,1
+C-01435,Bear Lake Charter Co Partners,Durango,CO,Outfitter,1
+C-01436,Deer Valley Hospitality #3,Boulder,CO,Resort,1
+C-01437,Boulder Field Sports #3,Reno,NV,Outdoor Retail,2
+C-01438,Big Cottonwood Guide Service LLC,Jackson,WY,Outfitter,2
+C-01439,Deer Valley Hospitality #4,Provo,UT,Resort,1
+C-01440,Park City School District #2,Tucson,AZ,School District,2
+C-01441,Cascade Outdoor Supply #2,Boise,ID,Outdoor Retail,3
+C-01442,Provo City School District #4,Bountiful,UT,School District,2
+C-01443,Ogden Valley Schools #3,Aspen,CO,School District,3
+C-01444,Uinta Highline Outfitters LLC,Provo,UT,Outfitter,2
+C-01445,Wasatch County School District #3,Phoenix,AZ,School District,2
+C-01446,Ridge & Pine Sports #2,Cottonwood Heights,UT,Outdoor Retail,2
+C-01447,Salt Lake City School District #6,Bountiful,UT,School District,2
+C-01448,Solitude Mountain Group LLC,Idaho Falls,ID,Resort,2
+C-01449,Echo Canyon Outdoor #5,Aspen,CO,Outdoor Retail,2
+C-01450,Pinnacle Outdoor Group #4,Vail,CO,Outdoor Retail,2
+C-01451,Echo Canyon Outdoor #6,Provo,UT,Outdoor Retail,1
+C-01452,Beaver Mountain Operations LLC,Durango,CO,Resort,3
+C-01453,Ridge & Pine Sports #3,Provo,UT,Outdoor Retail,3
+C-01454,Glacier Trade Outpost #4,Tucson,AZ,Outdoor Retail,2
+C-01455,Lake Powell Houseboats Services,Carson City,NV,Outfitter,2
+C-01456,Basin Outdoor Co LLC,Reno,NV,Outdoor Retail,2
+C-01457,Brighton Resort Co #4,Salt Lake City,UT,Resort,3
+C-01458,Solitude Mountain Group Inc,Pocatello,ID,Resort,1
+C-01459,Glacier Trade Outpost #5,Twin Falls,ID,Outdoor Retail,2
+C-01460,Alta Lodge Group LLC,Reno,NV,Resort,1
+C-01461,Strawberry Reservoir Charter Services,Heber City,UT,Outfitter,1
+C-01462,Park City Mountain Lodge #3,Ogden,UT,Resort,2
+C-01463,Cache Valley Education Co-op #7,Boulder,CO,School District,2
+C-01464,Sundance Resort #3,Missoula,MT,Resort,3
+C-01465,Glacier Trade Outpost #6,Boulder,CO,Outdoor Retail,3
+C-01466,Bear Lake Charter Co Supply,Helena,MT,Outfitter,2
+C-01467,Iron County School District Supply,Logan,UT,School District,3
+C-01468,Park City School District #3,Vernal,UT,School District,3
+C-01469,Cottonwood Outdoors #5,Salt Lake City,UT,Outdoor Retail,2
+C-01470,Riverbend Outdoors #3,Salt Lake City,UT,Outdoor Retail,2
+C-01471,Powder Mountain Operations Services,Bountiful,UT,Resort,2
+C-01472,Brian Head Resort Holdings,Bountiful,UT,Resort,2
+C-01473,Uinta Highline Outfitters Associates,Tooele,UT,Outfitter,3
+C-01474,Glacier Trade Outpost #7,Sandy,UT,Outdoor Retail,2
+C-01475,Sage Brush Outfitters #7,Missoula,MT,Outdoor Retail,1
+C-01476,Basin Outdoor Co #2,Las Vegas,NV,Outdoor Retail,2
+C-01477,Iron County School District #2,Tooele,UT,School District,3
+C-01478,Bear Lake Charter Co Associates,Cheyenne,WY,Outfitter,2
+C-01479,Beaver Mountain Operations Supply,Cottonwood Heights,UT,Resort,2
+C-01480,Cache Valley Education Co-op #8,Helena,MT,School District,3
+C-01481,Granite School District Partners,Helena,MT,School District,3
+C-01482,Basin Outdoor Co #3,Bozeman,MT,Outdoor Retail,2
+C-01483,Park City Mountain Lodge #4,Aspen,CO,Resort,2
+C-01484,Logan River Outfitters Associates,Park City,UT,Outfitter,1
+C-01485,Granite Peak Gear #7,Reno,NV,Outdoor Retail,1
+C-01486,Granite School District #2,Pocatello,ID,School District,2
+C-01487,Park City Mountain Lodge #5,Logan,UT,Resort,2
+C-01488,Wasatch Mountain Goods Inc,Twin Falls,ID,Outdoor Retail,2
+C-01489,Cottonwood Outdoors #6,Layton,UT,Outdoor Retail,2
+C-01490,Park City Mountain Lodge #6,Las Vegas,NV,Resort,2
+C-01491,Wasatch County School District #4,Boise,ID,School District,3
+C-01492,Brian Head Resort Services,Helena,MT,Resort,1
+C-01493,Park City Mountain Lodge #7,Aspen,CO,Resort,2
+C-01494,Glacier Trade Outpost #8,Boise,ID,Outdoor Retail,2
+C-01495,Davis County Schools LLC,Salt Lake City,UT,School District,2
+C-01496,Beaver Mountain Operations #2,Cedar City,UT,Resort,2
+C-01497,Park City Mountain Lodge #8,Reno,NV,Resort,2
+C-01498,Basin Outdoor Co #4,Las Vegas,NV,Outdoor Retail,1
+C-01499,Iron County School District #3,Idaho Falls,ID,School District,1
+C-01500,Boulder Field Sports #4,Ogden,UT,Outdoor Retail,2
+C-01501,Ogden Valley Schools #4,Logan,UT,School District,3
+C-01502,Brighton Resort Co #5,Tooele,UT,Resort,2
+C-01503,Granite Peak Gear #8,Bozeman,MT,Outdoor Retail,3
+C-01504,Echo Canyon Outdoor #7,Missoula,MT,Outdoor Retail,2
+C-01505,Solitude Mountain Group Services,Jackson,WY,Resort,3
+C-01506,Logan River Outfitters LLC,Tooele,UT,Outfitter,2
+C-01507,Highline Outfitters #2,Phoenix,AZ,Outdoor Retail,2
+C-01508,Basin Outdoor Co #5,Park City,UT,Outdoor Retail,1
+C-01509,Snowbird Resort Operations Inc,Layton,UT,Resort,2
+C-01510,Big Cottonwood Guide Service Associates,Bozeman,MT,Outfitter,1
+C-01511,Brian Head Resort #2,Layton,UT,Resort,2
+C-01512,Sage Brush Outfitters #8,Jackson,WY,Outdoor Retail,1
+C-01513,Holladay Bait & Tackle #2,Provo,UT,Outfitter,4
+C-01514,Sundance Resort #4,Tucson,AZ,Resort,2
+C-01515,Beaver Mountain Operations #3,Jackson,WY,Resort,2
+C-01516,Salt Lake City School District #7,Vail,CO,School District,1
+C-01517,Sundance Resort #5,Park City,UT,Resort,2
+C-01518,Park City School District #4,Phoenix,AZ,School District,3
+C-01519,Strawberry Reservoir Charter Co,Twin Falls,ID,Outfitter,4
+C-01520,Park City Mountain Lodge #9,Ogden,UT,Resort,2
+C-01521,Basin Outdoor Co #6,Twin Falls,ID,Outdoor Retail,2
+C-01522,Tooele County Schools Partners,Tucson,AZ,School District,2
+C-01523,Solitude Mountain Group Associates,Boise,ID,Resort,3
+C-01524,Summit Edge Retail #7,Durango,CO,Outdoor Retail,2
+C-01525,Echo Canyon Outdoor #8,Bozeman,MT,Outdoor Retail,2
+C-01526,Salt Lake City School District #8,Cottonwood Heights,UT,School District,2
+C-01527,Brian Head Resort #3,Las Vegas,NV,Resort,2
+C-01528,Sage Brush Outfitters #9,Boulder,CO,Outdoor Retail,2
+C-01529,Snowbird Resort Operations #2,Logan,UT,Resort,2
+C-01530,Summit Edge Retail #8,Missoula,MT,Outdoor Retail,2
+C-01531,Cottonwood Heights ISD Group,Cedar City,UT,School District,2
+C-01532,Eagle Point Resort Supply,Boulder,CO,Resort,3
+C-01533,Tooele County Schools Group,Moab,UT,School District,3
+C-01534,Wasatch Mountain Goods Partners,Bozeman,MT,Outdoor Retail,2
+C-01535,Moab Desert Outfitters Holdings,Vail,CO,Outfitter,2
+C-01536,Bear Lake Charter Co #2,Jackson,WY,Outfitter,2
+C-01537,Strawberry Reservoir Charter Holdings,Pocatello,ID,Outfitter,2
+C-01538,Glacier Trade Outpost #9,Las Vegas,NV,Outdoor Retail,2
+C-01539,Summit Edge Retail #9,Tucson,AZ,Outdoor Retail,1
+C-01540,Snowbird Resort Operations #3,Tucson,AZ,Resort,1
+C-01541,Highline Outfitters #3,Idaho Falls,ID,Outdoor Retail,2
+C-01542,Wasatch Mountain Goods #2,Heber City,UT,Outdoor Retail,3
+C-01543,Boulder Field Sports #5,Salt Lake City,UT,Outdoor Retail,2
+C-01544,Timberline Sports #2,Provo,UT,Outdoor Retail,1
+C-01545,Sage Brush Outfitters #10,Moab,UT,Outdoor Retail,2
+C-01546,Glacier Trade Outpost #10,Layton,UT,Outdoor Retail,2
+C-01547,Salt Lake City School District #9,Jackson,WY,School District,1
+C-01548,Highline Outfitters #4,Durango,CO,Outdoor Retail,3
+C-01549,Solitude Mountain Group Partners,Moab,UT,Resort,2
+C-01550,Moab Desert Outfitters Partners,Vail,CO,Outfitter,2
+C-01551,Echo Canyon Outdoor #9,Casper,WY,Outdoor Retail,3
+C-01552,Davis County Schools Associates,Provo,UT,School District,2
+C-01553,Ogden Valley Schools #5,Carson City,NV,School District,2
+C-01554,Alta Lodge Group Partners,Twin Falls,ID,Resort,1
+C-01555,Echo Canyon Outdoor #10,Carson City,NV,Outdoor Retail,2
+C-01556,Riverbend Outdoors #4,Heber City,UT,Outdoor Retail,3
+C-01557,Beaver Mountain Operations #4,Las Vegas,NV,Resort,1
+C-01558,Snowbird Resort Operations #4,Bountiful,UT,Resort,2
+C-01559,Granite School District #3,Tucson,AZ,School District,2
+C-01560,Wasatch Mountain Goods #3,Pocatello,ID,Outdoor Retail,2
+C-01561,Ogden Valley Schools #6,Sandy,UT,School District,2
+C-01562,Glacier Trade Outpost #11,Sandy,UT,Outdoor Retail,1
+C-01563,Wasatch County School District #5,Durango,CO,School District,2
+C-01564,Beaver Mountain Operations #5,Jackson,WY,Resort,2
+C-01565,Park City Mountain Lodge #10,Provo,UT,Resort,2
+C-01566,Beaver Mountain Operations #6,Phoenix,AZ,Resort,2
+C-01567,Alta Lodge Group Holdings,Casper,WY,Resort,2
+C-01568,Sundance Resort #6,Las Vegas,NV,Resort,3
+C-01569,Snowbird Resort Operations #5,Carson City,NV,Resort,2
+C-01570,Glacier Trade Outpost #12,Cedar City,UT,Outdoor Retail,2
+C-01571,Cascade Outdoor Supply #3,Phoenix,AZ,Outdoor Retail,2
+C-01572,Tooele County Schools Holdings,Moab,UT,School District,2
+C-01573,Big Cottonwood Guide Service Partners,Aspen,CO,Outfitter,1
+C-01574,Brian Head Resort #4,Vail,CO,Resort,2
+C-01575,Cottonwood Outdoors #7,Logan,UT,Outdoor Retail,2
+C-01576,Cottonwood Outdoors #8,Helena,MT,Outdoor Retail,2
+C-01577,Cascade Outdoor Supply #4,Phoenix,AZ,Outdoor Retail,2
+C-01578,Salt Lake City School District #10,Boise,ID,School District,2
+C-01579,Snowbird Resort Operations #6,Boulder,CO,Resort,3
+C-01580,Ogden Valley Schools #7,Moab,UT,School District,3
+C-01581,Provo City School District #5,Vail,CO,School District,2
+C-01582,Cottonwood Heights ISD Holdings,St. George,UT,School District,3
+C-01583,Logan River Outfitters Group,Helena,MT,Outfitter,2
+C-01584,Ridge & Pine Sports #4,Boulder,CO,Outdoor Retail,2
+C-01585,Provo City School District #6,Denver,CO,School District,2
+C-01586,Echo Canyon Outdoor #11,Casper,WY,Outdoor Retail,2
+C-01587,Deer Valley Hospitality #5,Boise,ID,Resort,4
+C-01588,Ogden Valley Schools #8,Idaho Falls,ID,School District,3
+C-01589,Iron County School District #4,Provo,UT,School District,2
+C-01590,Iron County School District #5,Reno,NV,School District,2
+C-01591,Brighton Resort Co #6,Helena,MT,Resort,2
+C-01592,Ridge & Pine Sports #5,Bountiful,UT,Outdoor Retail,2
+C-01593,Strawberry Reservoir Charter Partners,Vernal,UT,Outfitter,4
+C-01594,Beaver Mountain Operations #7,Idaho Falls,ID,Resort,3
+C-01595,Ridge & Pine Sports #6,Denver,CO,Outdoor Retail,2
+C-01596,Timberline Sports #3,Vernal,UT,Outdoor Retail,1
+C-01597,Cascade Outdoor Supply #5,Ogden,UT,Outdoor Retail,2
+C-01598,Moab Desert Outfitters Services,Cedar City,UT,Outfitter,3
+C-01599,Salt Lake City School District #11,Tucson,AZ,School District,2
+C-01600,Brian Head Resort #5,Boulder,CO,Resort,2
+C-01601,Provo City School District #7,Vernal,UT,School District,1
+C-01602,Glacier Trade Outpost #13,Heber City,UT,Outdoor Retail,3
+C-01603,Bear Lake Charter Co #3,Boise,ID,Outfitter,2
+C-01604,Deer Valley Hospitality #6,Cheyenne,WY,Resort,4
+C-01605,Wasatch County School District #6,Casper,WY,School District,3
+C-01606,Basin Outdoor Co #7,Cedar City,UT,Outdoor Retail,1
+C-01607,Wasatch County School District #7,Bountiful,UT,School District,3
+C-01608,Logan River Outfitters Inc,Jackson,WY,Outfitter,2
+C-01609,Holladay Bait & Tackle #3,Layton,UT,Outfitter,2
+C-01610,Riverbend Outdoors #5,Tooele,UT,Outdoor Retail,2
+C-01611,Cottonwood Outdoors #9,Tooele,UT,Outdoor Retail,2
+C-01612,Echo Canyon Outdoor #12,Cedar City,UT,Outdoor Retail,2
+C-01613,Ogden Valley Schools #9,Pocatello,ID,School District,3
+C-01614,Solitude Mountain Group #2,Twin Falls,ID,Resort,2
+C-01615,Wasatch Mountain Goods #4,Twin Falls,ID,Outdoor Retail,3
+C-01616,Cottonwood Outdoors #10,Provo,UT,Outdoor Retail,2
+C-01617,Cottonwood Outdoors #11,Sandy,UT,Outdoor Retail,2
+C-01618,Provo City School District #8,Jackson,WY,School District,3
+C-01619,Cascade Outdoor Supply #6,Cottonwood Heights,UT,Outdoor Retail,3
+C-01620,Iron County School District #6,Helena,MT,School District,2
+C-01621,Summit Edge Retail #10,Salt Lake City,UT,Outdoor Retail,2
+C-01622,Brighton Resort Co #7,Tucson,AZ,Resort,2
+C-01623,Uinta Highline Outfitters Partners,Ogden,UT,Outfitter,1
+C-01624,Wasatch Mountain Goods #5,Cheyenne,WY,Outdoor Retail,2
+C-01625,Riverbend Outdoors #6,Boise,ID,Outdoor Retail,2
+C-01626,Alta Lodge Group Associates,Tucson,AZ,Resort,1
+C-01627,Highline Outfitters #5,Boise,ID,Outdoor Retail,1
+C-01628,Sage Brush Outfitters #11,Provo,UT,Outdoor Retail,2
+C-01629,Ridge & Pine Sports #7,Twin Falls,ID,Outdoor Retail,3
+C-01630,Cache Valley Education Co-op #9,Park City,UT,School District,3
+C-01631,Provo Canyon Guides Partners,Cottonwood Heights,UT,Outfitter,4
+C-01632,Provo City School District #9,Ogden,UT,School District,2
+C-01633,Park City School District #5,Jackson,WY,School District,2
+C-01634,Cache Valley Education Co-op #10,Bountiful,UT,School District,3
+C-01635,Ridge & Pine Sports #8,Layton,UT,Outdoor Retail,2
+C-01636,Echo Canyon Outdoor #13,Tucson,AZ,Outdoor Retail,3
+C-01637,Brighton Resort Co #8,Denver,CO,Resort,2
+C-01638,Riverbend Outdoors #7,Flagstaff,AZ,Outdoor Retail,2
+C-01639,Salt Lake City School District #12,Provo,UT,School District,3
+C-01640,Ridge & Pine Sports #9,Flagstaff,AZ,Outdoor Retail,2
+C-01641,Basin Outdoor Co #8,Tooele,UT,Outdoor Retail,3
+C-01642,Sundance Resort #7,Helena,MT,Resort,2
+C-01643,Snowbird Resort Operations #7,Jackson,WY,Resort,2
+C-01644,Beaver Mountain Operations #8,Layton,UT,Resort,2
+C-01645,Boulder Field Sports #6,Provo,UT,Outdoor Retail,2
+C-01646,Holladay Bait & Tackle #4,Vail,CO,Outfitter,2
+C-01647,Ridge & Pine Sports #10,Durango,CO,Outdoor Retail,2
+C-01648,Bear Lake Charter Co #4,Carson City,NV,Outfitter,1
+C-01649,Cascade Outdoor Supply #7,Provo,UT,Outdoor Retail,2
+C-01650,Park City School District #6,Park City,UT,School District,2
+C-01651,Granite School District #4,Salt Lake City,UT,School District,2
+C-01652,Moab Desert Outfitters LLC,Tucson,AZ,Outfitter,1
+C-01653,Big Cottonwood Guide Service Services,Denver,CO,Outfitter,2
+C-01654,Echo Canyon Outdoor #14,Las Vegas,NV,Outdoor Retail,1
+C-01655,Cache Valley Education Co-op #11,Cheyenne,WY,School District,2
+C-01656,Summit Edge Retail #11,Helena,MT,Outdoor Retail,3
+C-01657,Cottonwood Outdoors #12,Idaho Falls,ID,Outdoor Retail,2
+C-01658,Lake Powell Houseboats #2,Vernal,UT,Outfitter,2
+C-01659,Salt Lake City School District #13,Boulder,CO,School District,3
+C-01660,Granite School District #5,Casper,WY,School District,3
+C-01661,Tooele County Schools #2,Ogden,UT,School District,2
+C-01662,Basin Outdoor Co #9,Twin Falls,ID,Outdoor Retail,2
+C-01663,Logan River Outfitters Supply,Sandy,UT,Outfitter,4
+C-01664,Beaver Mountain Operations #9,Vail,CO,Resort,2
+C-01665,Timberline Sports #4,Jackson,WY,Outdoor Retail,2
+C-01666,Sage Brush Outfitters #12,Salt Lake City,UT,Outdoor Retail,2
+C-01667,Salt Lake City School District #14,Flagstaff,AZ,School District,2
+C-01668,Brighton Resort Co #9,Moab,UT,Resort,1
+C-01669,Beaver Mountain Operations #10,Vernal,UT,Resort,3
+C-01670,Provo Canyon Guides Associates,Heber City,UT,Outfitter,1
+C-01671,Eagle Point Resort Services,Salt Lake City,UT,Resort,2
+C-01672,Pinnacle Outdoor Group #5,Park City,UT,Outdoor Retail,2
+C-01673,Glacier Trade Outpost #14,Reno,NV,Outdoor Retail,2
+C-01674,Granite School District #6,Bountiful,UT,School District,3
+C-01675,Granite Peak Gear #9,Helena,MT,Outdoor Retail,3
+C-01676,Sage Brush Outfitters #13,Layton,UT,Outdoor Retail,3
+C-01677,Tooele County Schools #3,Tooele,UT,School District,3
+C-01678,Strawberry Reservoir Charter Associates,Park City,UT,Outfitter,1
+C-01679,Uinta Highline Outfitters Group,Las Vegas,NV,Outfitter,3
+C-01680,Provo City School District #10,Moab,UT,School District,3
+C-01681,Alta Lodge Group Inc,Tooele,UT,Resort,2
+C-01682,Wasatch Adventure Co Co,Carson City,NV,Outfitter,2
+C-01683,Iron County School District #7,Idaho Falls,ID,School District,3
+C-01684,Provo Canyon Guides Co,Cottonwood Heights,UT,Outfitter,1
+C-01685,Cottonwood Outdoors #13,Pocatello,ID,Outdoor Retail,2
+C-01686,Iron County School District #8,St. George,UT,School District,2
+C-01687,Sage Brush Outfitters #14,Tucson,AZ,Outdoor Retail,2
+C-01688,Cascade Outdoor Supply #8,Cottonwood Heights,UT,Outdoor Retail,3
+C-01689,Highline Outfitters #6,Park City,UT,Outdoor Retail,2
+C-01690,Ridge & Pine Sports #11,Provo,UT,Outdoor Retail,2
+C-01691,Beaver Mountain Operations #11,Cheyenne,WY,Resort,1
+C-01692,Granite School District #7,Layton,UT,School District,2
+C-01693,Eagle Point Resort Holdings,Boulder,CO,Resort,2
+C-01694,Cascade Outdoor Supply #9,Helena,MT,Outdoor Retail,2
+C-01695,Timberline Sports #5,Cedar City,UT,Outdoor Retail,3
+C-01696,Davis County Schools Partners,Layton,UT,School District,2
+C-01697,Granite Peak Gear #10,Helena,MT,Outdoor Retail,3
+C-01698,Cache Valley Education Co-op #12,Idaho Falls,ID,School District,3
+C-01699,Salt Lake City School District #15,Cedar City,UT,School District,3
+C-01700,Mirror Lake Outfitters Partners,Tooele,UT,Outfitter,1
+C-01701,Ogden Valley Schools #10,Denver,CO,School District,2
+C-01702,Basin Outdoor Co #10,Cheyenne,WY,Outdoor Retail,2
+C-01703,Park City School District #7,Aspen,CO,School District,3
+C-01704,Echo Canyon Outdoor #15,Moab,UT,Outdoor Retail,1
+C-01705,Glacier Trade Outpost #15,Pocatello,ID,Outdoor Retail,1
+C-01706,Deer Valley Hospitality #7,Logan,UT,Resort,3
+C-01707,Provo Canyon Guides Inc,Reno,NV,Outfitter,1
+C-01708,Highline Outfitters #7,Pocatello,ID,Outdoor Retail,2
+C-01709,Davis County Schools Inc,St. George,UT,School District,2
+C-01710,Eagle Point Resort Group,Layton,UT,Resort,2
+C-01711,Cascade Outdoor Supply #10,Boise,ID,Outdoor Retail,2
+C-01712,Wasatch Adventure Co Inc,Cottonwood Heights,UT,Outfitter,4
+C-01713,Brighton Resort Co #10,Denver,CO,Resort,2
+C-01714,Highline Outfitters #8,Cedar City,UT,Outdoor Retail,2
+C-01715,Glacier Trade Outpost #16,Phoenix,AZ,Outdoor Retail,2
+C-01716,Ridge & Pine Sports #12,Reno,NV,Outdoor Retail,2
+C-01717,Basin Outdoor Co #11,Tooele,UT,Outdoor Retail,2
+C-01718,Strawberry Reservoir Charter Supply,Durango,CO,Outfitter,1
+C-01719,Uinta Highline Outfitters Services,Layton,UT,Outfitter,4
+C-01720,Holladay Bait & Tackle #5,Missoula,MT,Outfitter,1
+C-01721,Solitude Mountain Group #3,Sandy,UT,Resort,3
+C-01722,Alta Lodge Group Group,Park City,UT,Resort,1
+C-01723,Park City School District #8,Reno,NV,School District,3
+C-01724,Wasatch Mountain Goods #6,Bountiful,UT,Outdoor Retail,4
+C-01725,Salt Lake City School District #16,Jackson,WY,School District,3
+C-01726,Wasatch Adventure Co Holdings,Boise,ID,Outfitter,3
+C-01727,Basin Outdoor Co #12,Salt Lake City,UT,Outdoor Retail,2
+C-01728,Basin Outdoor Co #13,Phoenix,AZ,Outdoor Retail,3
+C-01729,Brian Head Resort #6,Sandy,UT,Resort,1
+C-01730,Salt Lake City School District #17,Idaho Falls,ID,School District,2
+C-01731,Park City School District #9,Vernal,UT,School District,3
+C-01732,Alta Lodge Group #2,Carson City,NV,Resort,2
+C-01733,Sage Brush Outfitters #15,Bozeman,MT,Outdoor Retail,2
+C-01734,Cottonwood Heights ISD #2,Vernal,UT,School District,3
+C-01735,Pinnacle Outdoor Group #6,Denver,CO,Outdoor Retail,3
+C-01736,Sage Brush Outfitters #16,Vail,CO,Outdoor Retail,2
+C-01737,Bear Lake Charter Co #5,Idaho Falls,ID,Outfitter,1
+C-01738,Echo Canyon Outdoor #16,Phoenix,AZ,Outdoor Retail,2
+C-01739,Boulder Field Sports #7,Vail,CO,Outdoor Retail,2
+C-01740,Cascade Outdoor Supply #11,Twin Falls,ID,Outdoor Retail,2
+C-01741,Brian Head Resort #7,Moab,UT,Resort,2
+C-01742,Echo Canyon Outdoor #17,Logan,UT,Outdoor Retail,2
+C-01743,Summit Edge Retail #12,Pocatello,ID,Outdoor Retail,2
+C-01744,Park City Mountain Lodge #11,Boise,ID,Resort,1
+C-01745,Ogden Valley Schools #11,Moab,UT,School District,3
+C-01746,Uinta Highline Outfitters #2,Denver,CO,Outfitter,2
+C-01747,Provo City School District #11,Boulder,CO,School District,2
+C-01748,Echo Canyon Outdoor #18,Jackson,WY,Outdoor Retail,2
+C-01749,Sage Brush Outfitters #17,Cottonwood Heights,UT,Outdoor Retail,2
+C-01750,Highline Outfitters #9,Boulder,CO,Outdoor Retail,2
+C-01751,Cache Valley Education Co-op #13,Moab,UT,School District,2
+C-01752,Sage Brush Outfitters #18,Cottonwood Heights,UT,Outdoor Retail,3
+C-01753,Provo City School District #12,Denver,CO,School District,2
+C-01754,Timberline Sports #6,Phoenix,AZ,Outdoor Retail,2
+C-01755,Wasatch Adventure Co LLC,Provo,UT,Outfitter,2
+C-01756,Strawberry Reservoir Charter #2,Idaho Falls,ID,Outfitter,4
+C-01757,Ogden Valley Schools #12,Cedar City,UT,School District,3
+C-01758,Wasatch Adventure Co Supply,Bozeman,MT,Outfitter,2
+C-01759,Cottonwood Outdoors #14,Heber City,UT,Outdoor Retail,2
+C-01760,Big Cottonwood Guide Service Co,Bountiful,UT,Outfitter,1
+C-01761,Provo City School District #13,Reno,NV,School District,2
+C-01762,Eagle Point Resort Co,Cottonwood Heights,UT,Resort,2
+C-01763,Highline Outfitters #10,Salt Lake City,UT,Outdoor Retail,2
+C-01764,Salt Lake City School District #18,Pocatello,ID,School District,2
+C-01765,Powder Mountain Operations Inc,Boise,ID,Resort,2
+C-01766,Tooele County Schools #4,Moab,UT,School District,3
+C-01767,Brighton Resort Co #11,Idaho Falls,ID,Resort,2
+C-01768,Provo City School District #14,Cottonwood Heights,UT,School District,3
+C-01769,Wasatch Mountain Goods #7,Pocatello,ID,Outdoor Retail,2
+C-01770,Timberline Sports #7,Boise,ID,Outdoor Retail,2
+C-01771,Highline Outfitters #11,Heber City,UT,Outdoor Retail,2
+C-01772,Iron County School District #9,Casper,WY,School District,3
+C-01773,Moab Desert Outfitters Supply,St. George,UT,Outfitter,1
+C-01774,Boulder Field Sports #8,Flagstaff,AZ,Outdoor Retail,2
+C-01775,Holladay Bait & Tackle #6,Tucson,AZ,Outfitter,1
+C-01776,Granite School District #8,Heber City,UT,School District,3
+C-01777,Provo City School District #15,Bountiful,UT,School District,3
+C-01778,Basin Outdoor Co #14,Logan,UT,Outdoor Retail,2
+C-01779,Highline Outfitters #12,Moab,UT,Outdoor Retail,3
+C-01780,Salt Lake City School District #19,Tooele,UT,School District,3
+C-01781,Granite Peak Gear #11,Reno,NV,Outdoor Retail,2
+C-01782,Highline Outfitters #13,Logan,UT,Outdoor Retail,2
+C-01783,Eagle Point Resort Associates,Heber City,UT,Resort,3
+C-01784,Provo City School District #16,Logan,UT,School District,2
+C-01785,Echo Canyon Outdoor #19,Ogden,UT,Outdoor Retail,2
+C-01786,Sage Brush Outfitters #19,Boulder,CO,Outdoor Retail,3
+C-01787,Snowbird Resort Operations #8,Flagstaff,AZ,Resort,2
+C-01788,Solitude Mountain Group #4,Casper,WY,Resort,2
+C-01789,Wasatch County School District #8,Jackson,WY,School District,3
+C-01790,Salt Lake City School District #20,Layton,UT,School District,2
+C-01791,Riverbend Outdoors #8,Carson City,NV,Outdoor Retail,2
+C-01792,Boulder Field Sports #9,Idaho Falls,ID,Outdoor Retail,2
+C-01793,Timberline Sports #8,St. George,UT,Outdoor Retail,2
+C-01794,Wasatch Mountain Goods #8,Tucson,AZ,Outdoor Retail,1
+C-01795,Timberline Sports #9,Cheyenne,WY,Outdoor Retail,2
+C-01796,Sage Brush Outfitters #20,Phoenix,AZ,Outdoor Retail,4
+C-01797,Riverbend Outdoors #9,Tooele,UT,Outdoor Retail,2
+C-01798,Sage Brush Outfitters #21,Missoula,MT,Outdoor Retail,2
+C-01799,Davis County Schools #2,Logan,UT,School District,3
+C-01800,Cascade Outdoor Supply #12,Heber City,UT,Outdoor Retail,3
+C-01801,Solitude Mountain Group #5,Aspen,CO,Resort,3
+C-01802,Granite Peak Gear #12,Missoula,MT,Outdoor Retail,2
+C-01803,Ridge & Pine Sports #13,Salt Lake City,UT,Outdoor Retail,2
+C-01804,Basin Outdoor Co #15,Reno,NV,Outdoor Retail,2
+C-01805,Granite Peak Gear #13,Bozeman,MT,Outdoor Retail,2
+C-01806,Cottonwood Heights ISD #3,Phoenix,AZ,School District,2
+C-01807,Boulder Field Sports #10,Durango,CO,Outdoor Retail,2
+C-01808,Brian Head Resort #8,Pocatello,ID,Resort,3
+C-01809,Sundance Resort #8,Missoula,MT,Resort,3
+C-01810,Glacier Trade Outpost #17,Bozeman,MT,Outdoor Retail,3
+C-01811,Granite Peak Gear #14,Cedar City,UT,Outdoor Retail,2
+C-01812,Sage Brush Outfitters #22,Moab,UT,Outdoor Retail,4
+C-01813,Wasatch Mountain Goods #9,Vernal,UT,Outdoor Retail,4
+C-01814,Granite Peak Gear #15,Tucson,AZ,Outdoor Retail,2
+C-01815,Echo Canyon Outdoor #20,Layton,UT,Outdoor Retail,3
+C-01816,Granite Peak Gear #16,Bountiful,UT,Outdoor Retail,2
+C-01817,Sundance Resort #9,Idaho Falls,ID,Resort,2
+C-01818,Granite Peak Gear #17,Cedar City,UT,Outdoor Retail,2
+C-01819,Park City School District #10,Logan,UT,School District,3
+C-01820,Summit Edge Retail #13,Cottonwood Heights,UT,Outdoor Retail,3
+C-01821,Cache Valley Education Co-op #14,Salt Lake City,UT,School District,1
+C-01822,Eagle Point Resort #2,Tooele,UT,Resort,3
+C-01823,Wasatch Adventure Co Group,Sandy,UT,Outfitter,2
+C-01824,Cascade Outdoor Supply #13,Denver,CO,Outdoor Retail,2
+C-01825,Pinnacle Outdoor Group #7,Cottonwood Heights,UT,Outdoor Retail,2
+C-01826,Mirror Lake Outfitters LLC,Salt Lake City,UT,Outfitter,2
+C-01827,Eagle Point Resort #3,Jackson,WY,Resort,3
+C-01828,Sage Brush Outfitters #23,Aspen,CO,Outdoor Retail,3
+C-01829,Echo Canyon Outdoor #21,Tucson,AZ,Outdoor Retail,2
+C-01830,Park City Mountain Lodge #12,Phoenix,AZ,Resort,2
+C-01831,Powder Mountain Operations Holdings,Idaho Falls,ID,Resort,2
+C-01832,Powder Mountain Operations LLC,Carson City,NV,Resort,1
+C-01833,Park City Mountain Lodge #13,Cottonwood Heights,UT,Resort,2
+C-01834,Brian Head Resort #9,Heber City,UT,Resort,3
+C-01835,Ridge & Pine Sports #14,Logan,UT,Outdoor Retail,2
+C-01836,Cascade Outdoor Supply #14,Helena,MT,Outdoor Retail,2
+C-01837,Mirror Lake Outfitters Associates,Bozeman,MT,Outfitter,2
+C-01838,Lake Powell Houseboats #3,Denver,CO,Outfitter,1
+C-01839,Big Cottonwood Guide Service #2,Carson City,NV,Outfitter,1
+C-01840,Summit Edge Retail #14,Las Vegas,NV,Outdoor Retail,2
+C-01841,Sage Brush Outfitters #24,Salt Lake City,UT,Outdoor Retail,1
+C-01842,Iron County School District #10,Pocatello,ID,School District,3
+C-01843,Ogden Valley Schools #13,Phoenix,AZ,School District,2
+C-01844,Boulder Field Sports #11,Flagstaff,AZ,Outdoor Retail,2
+C-01845,Timberline Sports #10,Tooele,UT,Outdoor Retail,2
+C-01846,Moab Desert Outfitters Group,Jackson,WY,Outfitter,3
+C-01847,Lake Powell Houseboats #4,Bountiful,UT,Outfitter,3
+C-01848,Cascade Outdoor Supply #15,Boise,ID,Outdoor Retail,2
+C-01849,Cascade Outdoor Supply #16,Missoula,MT,Outdoor Retail,2
+C-01850,Holladay Bait & Tackle #7,Boise,ID,Outfitter,3
+C-01851,Granite Peak Gear #18,Provo,UT,Outdoor Retail,2
+C-01852,Big Cottonwood Guide Service #3,Helena,MT,Outfitter,3
+C-01853,Park City School District #11,Vernal,UT,School District,3
+C-01854,Basin Outdoor Co #16,Salt Lake City,UT,Outdoor Retail,2
+C-01855,Tooele County Schools #5,Casper,WY,School District,3
+C-01856,Sage Brush Outfitters #25,Tucson,AZ,Outdoor Retail,3
+C-01857,Ridge & Pine Sports #15,Carson City,NV,Outdoor Retail,1
+C-01858,Timberline Sports #11,Ogden,UT,Outdoor Retail,2
+C-01859,Snowbird Resort Operations #9,Logan,UT,Resort,2
+C-01860,Deer Valley Hospitality #8,Aspen,CO,Resort,2
+C-01861,Wasatch Adventure Co Services,Las Vegas,NV,Outfitter,1
+C-01862,Sage Brush Outfitters #26,St. George,UT,Outdoor Retail,2
+C-01863,Provo City School District #17,Moab,UT,School District,3
+C-01864,Alta Lodge Group #3,Tooele,UT,Resort,2
+C-01865,Bear Lake Charter Co #6,Sandy,UT,Outfitter,3
+C-01866,Brighton Resort Co #12,Tooele,UT,Resort,2
+C-01867,Boulder Field Sports #12,Casper,WY,Outdoor Retail,2
+C-01868,Holladay Bait & Tackle #8,Idaho Falls,ID,Outfitter,3
+C-01869,Wasatch County School District #9,Provo,UT,School District,3
+C-01870,Boulder Field Sports #13,Casper,WY,Outdoor Retail,3
+C-01871,Moab Desert Outfitters #2,Heber City,UT,Outfitter,1
+C-01872,Pinnacle Outdoor Group #8,Jackson,WY,Outdoor Retail,1
+C-01873,Lake Powell Houseboats #5,Salt Lake City,UT,Outfitter,1
+C-01874,Glacier Trade Outpost #18,Cheyenne,WY,Outdoor Retail,2
+C-01875,Wasatch County School District #10,Cedar City,UT,School District,2
+C-01876,Alta Lodge Group #4,Las Vegas,NV,Resort,2
+C-01877,Glacier Trade Outpost #19,Reno,NV,Outdoor Retail,2
+C-01878,Iron County School District #11,Denver,CO,School District,3
+C-01879,Boulder Field Sports #14,Twin Falls,ID,Outdoor Retail,3
+C-01880,Riverbend Outdoors #10,Las Vegas,NV,Outdoor Retail,2
+C-01881,Highline Outfitters #14,Missoula,MT,Outdoor Retail,1
+C-01882,Moab Desert Outfitters #3,Cedar City,UT,Outfitter,2
+C-01883,Deer Valley Hospitality #9,Boulder,CO,Resort,2
+C-01884,Sage Brush Outfitters #27,Sandy,UT,Outdoor Retail,2
+C-01885,Riverbend Outdoors #11,Cottonwood Heights,UT,Outdoor Retail,2
+C-01886,Wasatch Mountain Goods #10,Las Vegas,NV,Outdoor Retail,1
+C-01887,Cottonwood Heights ISD #4,Cedar City,UT,School District,3
+C-01888,Wasatch Mountain Goods #11,Boise,ID,Outdoor Retail,3
+C-01889,Brighton Resort Co #13,Ogden,UT,Resort,3
+C-01890,Park City School District #12,Missoula,MT,School District,3
+C-01891,Sundance Resort #10,St. George,UT,Resort,2
+C-01892,Lake Powell Houseboats #6,Vail,CO,Outfitter,2
+C-01893,Granite Peak Gear #19,Heber City,UT,Outdoor Retail,3
+C-01894,Granite School District #9,Vernal,UT,School District,2
+C-01895,Park City Mountain Lodge #14,Salt Lake City,UT,Resort,4
+C-01896,Solitude Mountain Group #6,Cheyenne,WY,Resort,2
+C-01897,Park City School District #13,Las Vegas,NV,School District,2
+C-01898,Wasatch County School District #11,Twin Falls,ID,School District,3
+C-01899,Pinnacle Outdoor Group #9,Las Vegas,NV,Outdoor Retail,3
+C-01900,Park City School District #14,Vernal,UT,School District,3
+C-01901,Brian Head Resort #10,Ogden,UT,Resort,2
+C-01902,Salt Lake City School District #21,Carson City,NV,School District,3
+C-01903,Riverbend Outdoors #12,Logan,UT,Outdoor Retail,2
+C-01904,Cottonwood Heights ISD #5,Cedar City,UT,School District,2
+C-01905,Park City Mountain Lodge #15,Provo,UT,Resort,3
+C-01906,Wasatch Adventure Co #2,Durango,CO,Outfitter,1
+C-01907,Snowbird Resort Operations #10,Vernal,UT,Resort,3
+C-01908,Pinnacle Outdoor Group #10,Bozeman,MT,Outdoor Retail,2
+C-01909,Echo Canyon Outdoor #22,Tooele,UT,Outdoor Retail,2
+C-01910,Tooele County Schools #6,Carson City,NV,School District,3
+C-01911,Uinta Highline Outfitters #3,Vail,CO,Outfitter,2
+C-01912,Bear Lake Charter Co #7,Heber City,UT,Outfitter,2
+C-01913,Cottonwood Heights ISD #6,Bozeman,MT,School District,1
+C-01914,Davis County Schools #3,Layton,UT,School District,2
+C-01915,Timberline Sports #12,Layton,UT,Outdoor Retail,3
+C-01916,Wasatch County School District #12,Cheyenne,WY,School District,3
+C-01917,Cottonwood Outdoors #15,Cheyenne,WY,Outdoor Retail,4
+C-01918,Wasatch County School District #13,Las Vegas,NV,School District,2
+C-01919,Granite Peak Gear #20,Provo,UT,Outdoor Retail,2
+C-01920,Cottonwood Outdoors #16,Ogden,UT,Outdoor Retail,2
+C-01921,Granite School District #10,Aspen,CO,School District,3
+C-01922,Cache Valley Education Co-op #15,Phoenix,AZ,School District,3
+C-01923,Granite Peak Gear #21,Park City,UT,Outdoor Retail,2
+C-01924,Davis County Schools #4,Helena,MT,School District,2
+C-01925,Alta Lodge Group #5,Tucson,AZ,Resort,3
+C-01926,Timberline Sports #13,Casper,WY,Outdoor Retail,2
+C-01927,Basin Outdoor Co #17,Heber City,UT,Outdoor Retail,2
+C-01928,Brian Head Resort #11,Vail,CO,Resort,3
+C-01929,Bear Lake Charter Co #8,Flagstaff,AZ,Outfitter,4
+C-01930,Provo City School District #18,Durango,CO,School District,3
+C-01931,Big Cottonwood Guide Service #4,Aspen,CO,Outfitter,2
+C-01932,Granite School District #11,Boulder,CO,School District,3
+C-01933,Iron County School District #12,Phoenix,AZ,School District,3
+C-01934,Solitude Mountain Group #7,Flagstaff,AZ,Resort,2
+C-01935,Park City Mountain Lodge #16,Casper,WY,Resort,2
+C-01936,Mirror Lake Outfitters #2,Reno,NV,Outfitter,2
+C-01937,Cottonwood Outdoors #17,Las Vegas,NV,Outdoor Retail,2
+C-01938,Boulder Field Sports #15,Pocatello,ID,Outdoor Retail,3
+C-01939,Deer Valley Hospitality #10,Vernal,UT,Resort,3
+C-01940,Pinnacle Outdoor Group #11,Park City,UT,Outdoor Retail,2
+C-01941,Lake Powell Houseboats #7,Bountiful,UT,Outfitter,1
+C-01942,Bear Lake Charter Co #9,Layton,UT,Outfitter,3
+C-01943,Timberline Sports #14,Casper,WY,Outdoor Retail,2
+C-01944,Brian Head Resort #12,Logan,UT,Resort,2
+C-01945,Sundance Resort #11,Reno,NV,Resort,2
+C-01946,Basin Outdoor Co #18,Twin Falls,ID,Outdoor Retail,2
+C-01947,Park City Mountain Lodge #17,Durango,CO,Resort,3
+C-01948,Boulder Field Sports #16,Pocatello,ID,Outdoor Retail,2
+C-01949,Provo City School District #19,St. George,UT,School District,3
+C-01950,Davis County Schools #5,Vail,CO,School District,3
+C-01951,Logan River Outfitters Co,Sandy,UT,Outfitter,1
+C-01952,Riverbend Outdoors #13,Boulder,CO,Outdoor Retail,4
+C-01953,Mirror Lake Outfitters #3,Vail,CO,Outfitter,4
+C-01954,Granite School District #12,Vernal,UT,School District,3
+C-01955,Mirror Lake Outfitters #4,Heber City,UT,Outfitter,4
+C-01956,Sage Brush Outfitters #28,Jackson,WY,Outdoor Retail,2
+C-01957,Glacier Trade Outpost #20,Phoenix,AZ,Outdoor Retail,2
+C-01958,Alta Lodge Group #6,Phoenix,AZ,Resort,1
+C-01959,Echo Canyon Outdoor #23,Phoenix,AZ,Outdoor Retail,1
+C-01960,Bear Lake Charter Co #10,Carson City,NV,Outfitter,3
+C-01961,Iron County School District #13,St. George,UT,School District,3
+C-01962,Provo Canyon Guides LLC,Boulder,CO,Outfitter,1
+C-01963,Echo Canyon Outdoor #24,Twin Falls,ID,Outdoor Retail,4
+C-01964,Riverbend Outdoors #14,Layton,UT,Outdoor Retail,2
+C-01965,Sage Brush Outfitters #29,St. George,UT,Outdoor Retail,3
+C-01966,Big Cottonwood Guide Service #5,Boise,ID,Outfitter,4
+C-01967,Iron County School District #14,Helena,MT,School District,3
+C-01968,Logan River Outfitters #2,St. George,UT,Outfitter,2
+C-01969,Powder Mountain Operations #2,Las Vegas,NV,Resort,1
+C-01970,Cache Valley Education Co-op #16,Cottonwood Heights,UT,School District,3
+C-01971,Park City Mountain Lodge #18,Pocatello,ID,Resort,1
+C-01972,Ridge & Pine Sports #16,Aspen,CO,Outdoor Retail,2
+C-01973,Provo City School District #20,Heber City,UT,School District,2
+C-01974,Cache Valley Education Co-op #17,Sandy,UT,School District,2
+C-01975,Brighton Resort Co #14,Sandy,UT,Resort,2
+C-01976,Eagle Point Resort #4,Bountiful,UT,Resort,1
+C-01977,Beaver Mountain Operations #12,Pocatello,ID,Resort,2
+C-01978,Cascade Outdoor Supply #17,Denver,CO,Outdoor Retail,2
+C-01979,Cottonwood Outdoors #18,Denver,CO,Outdoor Retail,4
+C-01980,Wasatch Mountain Goods #12,Vernal,UT,Outdoor Retail,3
+C-01981,Timberline Sports #15,Twin Falls,ID,Outdoor Retail,2
+C-01982,Beaver Mountain Operations #13,Jackson,WY,Resort,1
+C-01983,Provo City School District #21,Carson City,NV,School District,3
+C-01984,Ogden Valley Schools #14,Boulder,CO,School District,3
+C-01985,Bear Lake Charter Co #11,Jackson,WY,Outfitter,4
+C-01986,Park City School District #15,Tooele,UT,School District,3
+C-01987,Echo Canyon Outdoor #25,Carson City,NV,Outdoor Retail,1
+C-01988,Solitude Mountain Group #8,Missoula,MT,Resort,3
+C-01989,Cascade Outdoor Supply #18,Jackson,WY,Outdoor Retail,2
+C-01990,Granite Peak Gear #22,Cottonwood Heights,UT,Outdoor Retail,2
+C-01991,Ridge & Pine Sports #17,St. George,UT,Outdoor Retail,2
+C-01992,Park City Mountain Lodge #19,Jackson,WY,Resort,1
+C-01993,Timberline Sports #16,Twin Falls,ID,Outdoor Retail,2
+C-01994,Wasatch Mountain Goods #13,Bozeman,MT,Outdoor Retail,2
+C-01995,Iron County School District #15,Heber City,UT,School District,3
+C-01996,Cascade Outdoor Supply #19,Missoula,MT,Outdoor Retail,2
+C-01997,Snowbird Resort Operations #11,Idaho Falls,ID,Resort,1
+C-01998,Wasatch Mountain Goods #14,Ogden,UT,Outdoor Retail,4
+C-01999,Echo Canyon Outdoor #26,Casper,WY,Outdoor Retail,2
+C-02000,Timberline Sports #17,Jackson,WY,Outdoor Retail,2
+C-02001,Beaver Mountain Operations #14,Missoula,MT,Resort,2
+C-02002,Sundance Resort #12,Phoenix,AZ,Resort,1
+C-02003,Park City School District #16,Helena,MT,School District,2
+C-02004,Echo Canyon Outdoor #27,Missoula,MT,Outdoor Retail,4
+C-02005,Deer Valley Hospitality #11,Cottonwood Heights,UT,Resort,2
+C-02006,Glacier Trade Outpost #21,Cheyenne,WY,Outdoor Retail,3
+C-02007,Powder Mountain Operations #3,Logan,UT,Resort,3
+C-02008,Summit Edge Retail #15,Ogden,UT,Outdoor Retail,2
+C-02009,Cascade Outdoor Supply #20,Ogden,UT,Outdoor Retail,2
+C-02010,Park City Mountain Lodge #20,Heber City,UT,Resort,2
+C-02011,Snowbird Resort Operations #12,Cedar City,UT,Resort,2
+C-02012,Cache Valley Education Co-op #18,Boulder,CO,School District,2
+C-02013,Ridge & Pine Sports #18,Flagstaff,AZ,Outdoor Retail,2
+C-02014,Eagle Point Resort #5,Cottonwood Heights,UT,Resort,2
+C-02015,Lake Powell Houseboats #8,Logan,UT,Outfitter,4
+C-02016,Granite School District #13,Park City,UT,School District,2
+C-02017,Brian Head Resort #13,Twin Falls,ID,Resort,1
+C-02018,Lake Powell Houseboats #9,Reno,NV,Outfitter,2
+C-02019,Solitude Mountain Group #9,Tooele,UT,Resort,2
+C-02020,Granite School District #14,Jackson,WY,School District,1
+C-02021,Iron County School District #16,Tucson,AZ,School District,2
+C-02022,Riverbend Outdoors #15,Carson City,NV,Outdoor Retail,2
+C-02023,Tooele County Schools #7,Sandy,UT,School District,1
+C-02024,Ridge & Pine Sports #19,Provo,UT,Outdoor Retail,2
+C-02025,Brian Head Resort #14,Tucson,AZ,Resort,3
+C-02026,Sage Brush Outfitters #30,Logan,UT,Outdoor Retail,2
+C-02027,Sage Brush Outfitters #31,Reno,NV,Outdoor Retail,2
+C-02028,Davis County Schools #6,St. George,UT,School District,2
+C-02029,Brian Head Resort #15,Aspen,CO,Resort,2
+C-02030,Riverbend Outdoors #16,Layton,UT,Outdoor Retail,2
+C-02031,Cottonwood Heights ISD #7,Casper,WY,School District,2
+C-02032,Timberline Sports #18,Carson City,NV,Outdoor Retail,1
+C-02033,Wasatch Mountain Goods #15,Boulder,CO,Outdoor Retail,3
+C-02034,Summit Edge Retail #16,Boise,ID,Outdoor Retail,2
+C-02035,Wasatch County School District #14,Bozeman,MT,School District,3
+C-02036,Pinnacle Outdoor Group #12,Phoenix,AZ,Outdoor Retail,4
+C-02037,Strawberry Reservoir Charter #3,Logan,UT,Outfitter,2
+C-02038,Moab Desert Outfitters #4,Sandy,UT,Outfitter,4
+C-02039,Brighton Resort Co #15,Idaho Falls,ID,Resort,3
+C-02040,Holladay Bait & Tackle #9,Boulder,CO,Outfitter,2
+C-02041,Tooele County Schools #8,Denver,CO,School District,3
+C-02042,Iron County School District #17,Phoenix,AZ,School District,3
+C-02043,Sage Brush Outfitters #32,Bountiful,UT,Outdoor Retail,2
+C-02044,Holladay Bait & Tackle #10,Bozeman,MT,Outfitter,4
+C-02045,Powder Mountain Operations #4,Denver,CO,Resort,2
+C-02046,Basin Outdoor Co #19,Vail,CO,Outdoor Retail,3
+C-02047,Ridge & Pine Sports #20,Missoula,MT,Outdoor Retail,2
+C-02048,Solitude Mountain Group #10,Logan,UT,Resort,2
+C-02049,Glacier Trade Outpost #22,Layton,UT,Outdoor Retail,3
+C-02050,Glacier Trade Outpost #23,Bozeman,MT,Outdoor Retail,4
+C-02051,Deer Valley Hospitality #12,Layton,UT,Resort,3
+C-02052,Moab Desert Outfitters #5,Provo,UT,Outfitter,2
+C-02053,Riverbend Outdoors #17,Vail,CO,Outdoor Retail,2
+C-02054,Timberline Sports #19,Helena,MT,Outdoor Retail,2
+C-02055,Cottonwood Heights ISD #8,Missoula,MT,School District,3
+C-02056,Moab Desert Outfitters #6,Boise,ID,Outfitter,3
+C-02057,Mirror Lake Outfitters #5,Bountiful,UT,Outfitter,1
+C-02058,Solitude Mountain Group #11,Pocatello,ID,Resort,2
+C-02059,Cottonwood Outdoors #19,Durango,CO,Outdoor Retail,2
+C-02060,Ridge & Pine Sports #21,Tucson,AZ,Outdoor Retail,1
+C-02061,Cottonwood Heights ISD #9,Denver,CO,School District,2
+C-02062,Salt Lake City School District #22,Missoula,MT,School District,2
+C-02063,Wasatch Mountain Goods #16,Boulder,CO,Outdoor Retail,2
+C-02064,Echo Canyon Outdoor #28,Boise,ID,Outdoor Retail,1
+C-02065,Powder Mountain Operations #5,Twin Falls,ID,Resort,3
+C-02066,Salt Lake City School District #23,Twin Falls,ID,School District,2
+C-02067,Sage Brush Outfitters #33,Cedar City,UT,Outdoor Retail,2
+C-02068,Basin Outdoor Co #20,Tucson,AZ,Outdoor Retail,2
+C-02069,Summit Edge Retail #17,Bozeman,MT,Outdoor Retail,3
+C-02070,Deer Valley Hospitality #13,Vernal,UT,Resort,1
+C-02071,Iron County School District #18,Reno,NV,School District,3
+C-02072,Wasatch Mountain Goods #17,Missoula,MT,Outdoor Retail,2
+C-02073,Timberline Sports #20,Phoenix,AZ,Outdoor Retail,2
+C-02074,Cache Valley Education Co-op #19,Boulder,CO,School District,3
+C-02075,Davis County Schools #7,Missoula,MT,School District,2
+C-02076,Cottonwood Heights ISD #10,Flagstaff,AZ,School District,2
+C-02077,Basin Outdoor Co #21,Vernal,UT,Outdoor Retail,3
+C-02078,Glacier Trade Outpost #24,Missoula,MT,Outdoor Retail,2
+C-02079,Sage Brush Outfitters #34,Reno,NV,Outdoor Retail,2
+C-02080,Eagle Point Resort #6,Carson City,NV,Resort,2
+C-02081,Cache Valley Education Co-op #20,Boulder,CO,School District,2
+C-02082,Holladay Bait & Tackle #11,Las Vegas,NV,Outfitter,1
+C-02083,Sage Brush Outfitters #35,Helena,MT,Outdoor Retail,2
+C-02084,Glacier Trade Outpost #25,Carson City,NV,Outdoor Retail,2
+C-02085,Sage Brush Outfitters #36,Denver,CO,Outdoor Retail,2
+C-02086,Tooele County Schools #9,Las Vegas,NV,School District,2
+C-02087,Cache Valley Education Co-op #21,Twin Falls,ID,School District,2
+C-02088,Basin Outdoor Co #22,Aspen,CO,Outdoor Retail,2
+C-02089,Eagle Point Resort #7,Bountiful,UT,Resort,1
+C-02090,Highline Outfitters #15,Provo,UT,Outdoor Retail,1
+C-02091,Granite School District #15,Helena,MT,School District,2
+C-02092,Cottonwood Outdoors #20,St. George,UT,Outdoor Retail,2
+C-02093,Ridge & Pine Sports #22,Las Vegas,NV,Outdoor Retail,2
+C-02094,Mirror Lake Outfitters #6,Durango,CO,Outfitter,2
+C-02095,Provo Canyon Guides Supply,Carson City,NV,Outfitter,1
+C-02096,Cottonwood Heights ISD #11,Las Vegas,NV,School District,3
+C-02097,Deer Valley Hospitality #14,Reno,NV,Resort,3
+C-02098,Granite School District #16,Denver,CO,School District,3
+C-02099,Granite School District #17,Boise,ID,School District,3
+C-02100,Ridge & Pine Sports #23,Provo,UT,Outdoor Retail,2
+C-02101,Glacier Trade Outpost #26,Moab,UT,Outdoor Retail,3
+C-02102,Granite School District #18,Park City,UT,School District,3
+C-02103,Provo City School District #22,Sandy,UT,School District,3
+C-02104,Pinnacle Outdoor Group #13,Cottonwood Heights,UT,Outdoor Retail,2
+C-02105,Wasatch County School District #15,Moab,UT,School District,2
+C-02106,Brian Head Resort #16,Park City,UT,Resort,1
+C-02107,Provo Canyon Guides Holdings,Denver,CO,Outfitter,3
+C-02108,Glacier Trade Outpost #27,Moab,UT,Outdoor Retail,2
+C-02109,Timberline Sports #21,Provo,UT,Outdoor Retail,2
+C-02110,Deer Valley Hospitality #15,St. George,UT,Resort,3
+C-02111,Highline Outfitters #16,Durango,CO,Outdoor Retail,2
+C-02112,Iron County School District #19,Cottonwood Heights,UT,School District,3
+C-02113,Cache Valley Education Co-op #22,Cottonwood Heights,UT,School District,1
+C-02114,Basin Outdoor Co #23,Provo,UT,Outdoor Retail,3
+C-02115,Highline Outfitters #17,Cedar City,UT,Outdoor Retail,2
+C-02116,Deer Valley Hospitality #16,Twin Falls,ID,Resort,3
+C-02117,Davis County Schools #8,St. George,UT,School District,2
+C-02118,Beaver Mountain Operations #15,Pocatello,ID,Resort,3
+C-02119,Wasatch County School District #16,Vernal,UT,School District,3
+C-02120,Granite School District #19,Bozeman,MT,School District,2
+C-02121,Eagle Point Resort #8,Tooele,UT,Resort,2
+C-02122,Wasatch Mountain Goods #18,Twin Falls,ID,Outdoor Retail,2
+C-02123,Sage Brush Outfitters #37,Vail,CO,Outdoor Retail,3
+C-02124,Park City Mountain Lodge #21,Bozeman,MT,Resort,3
+C-02125,Beaver Mountain Operations #16,Boulder,CO,Resort,3
+C-02126,Provo City School District #23,Ogden,UT,School District,3
+C-02127,Wasatch Mountain Goods #19,Tucson,AZ,Outdoor Retail,1
+C-02128,Summit Edge Retail #18,Cedar City,UT,Outdoor Retail,3
+C-02129,Glacier Trade Outpost #28,Cheyenne,WY,Outdoor Retail,2
+C-02130,Cache Valley Education Co-op #23,Bozeman,MT,School District,2
+C-02131,Wasatch County School District #17,Reno,NV,School District,3
+C-02132,Alta Lodge Group #7,Twin Falls,ID,Resort,2
+C-02133,Davis County Schools #9,Vail,CO,School District,3
+C-02134,Tooele County Schools #10,Phoenix,AZ,School District,3
+C-02135,Provo City School District #24,Reno,NV,School District,2
+C-02136,Iron County School District #20,Idaho Falls,ID,School District,3
+C-02137,Davis County Schools #10,Sandy,UT,School District,3
+C-02138,Cascade Outdoor Supply #21,Missoula,MT,Outdoor Retail,2
+C-02139,Moab Desert Outfitters #7,Twin Falls,ID,Outfitter,4
+C-02140,Alta Lodge Group #8,Bountiful,UT,Resort,2
+C-02141,Cottonwood Outdoors #21,Logan,UT,Outdoor Retail,2
+C-02142,Bear Lake Charter Co #12,Jackson,WY,Outfitter,1
+C-02143,Provo City School District #25,Boise,ID,School District,2
+C-02144,Granite School District #20,Helena,MT,School District,2
+C-02145,Pinnacle Outdoor Group #14,Las Vegas,NV,Outdoor Retail,2
+C-02146,Riverbend Outdoors #18,Bozeman,MT,Outdoor Retail,1
+C-02147,Glacier Trade Outpost #29,Logan,UT,Outdoor Retail,2
+C-02148,Eagle Point Resort #9,Cottonwood Heights,UT,Resort,1
+C-02149,Deer Valley Hospitality #17,Phoenix,AZ,Resort,2
+C-02150,Brighton Resort Co #16,Provo,UT,Resort,3
+C-02151,Granite Peak Gear #23,Reno,NV,Outdoor Retail,2
+C-02152,Davis County Schools #11,Twin Falls,ID,School District,3
+C-02153,Eagle Point Resort #10,Pocatello,ID,Resort,2
+C-02154,Logan River Outfitters #3,Flagstaff,AZ,Outfitter,4
+C-02155,Iron County School District #21,Boise,ID,School District,3
+C-02156,Sundance Resort #13,Vail,CO,Resort,3
+C-02157,Summit Edge Retail #19,Provo,UT,Outdoor Retail,2
+C-02158,Cottonwood Heights ISD #12,Boise,ID,School District,3
+C-02159,Tooele County Schools #11,Carson City,NV,School District,3
+C-02160,Cache Valley Education Co-op #24,Cedar City,UT,School District,3
+C-02161,Wasatch Mountain Goods #20,Moab,UT,Outdoor Retail,2
+C-02162,Highline Outfitters #18,Bozeman,MT,Outdoor Retail,1
+C-02163,Echo Canyon Outdoor #29,Cottonwood Heights,UT,Outdoor Retail,2
+C-02164,Pinnacle Outdoor Group #15,Casper,WY,Outdoor Retail,3
+C-02165,Solitude Mountain Group #12,Cheyenne,WY,Resort,2
+C-02166,Echo Canyon Outdoor #30,Park City,UT,Outdoor Retail,2
+C-02167,Mirror Lake Outfitters #7,Boise,ID,Outfitter,4
+C-02168,Cascade Outdoor Supply #22,Missoula,MT,Outdoor Retail,2
+C-02169,Ogden Valley Schools #15,Cheyenne,WY,School District,1
+C-02170,Tooele County Schools #12,Sandy,UT,School District,2
+C-02171,Logan River Outfitters #4,Bozeman,MT,Outfitter,1
+C-02172,Sundance Resort #14,Sandy,UT,Resort,1
+C-02173,Timberline Sports #22,Vail,CO,Outdoor Retail,3
+C-02174,Pinnacle Outdoor Group #16,Tooele,UT,Outdoor Retail,2
+C-02175,Powder Mountain Operations #6,Vernal,UT,Resort,3
+C-02176,Summit Edge Retail #20,Carson City,NV,Outdoor Retail,2
+C-02177,Wasatch County School District #18,Cottonwood Heights,UT,School District,1
+C-02178,Provo Canyon Guides Services,Idaho Falls,ID,Outfitter,2
+C-02179,Brian Head Resort #17,Cottonwood Heights,UT,Resort,2
+C-02180,Iron County School District #22,Tucson,AZ,School District,2
+C-02181,Davis County Schools #12,Casper,WY,School District,3
+C-02182,Tooele County Schools #13,Tooele,UT,School District,2
+C-02183,Provo Canyon Guides #2,Vail,CO,Outfitter,4
+C-02184,Solitude Mountain Group #13,Tooele,UT,Resort,2
+C-02185,Sage Brush Outfitters #38,Reno,NV,Outdoor Retail,2
+C-02186,Wasatch Mountain Goods #21,Carson City,NV,Outdoor Retail,2
+C-02187,Tooele County Schools #14,Las Vegas,NV,School District,2
+C-02188,Cache Valley Education Co-op #25,Carson City,NV,School District,3
+C-02189,Uinta Highline Outfitters #4,Vernal,UT,Outfitter,2
+C-02190,Cascade Outdoor Supply #23,Aspen,CO,Outdoor Retail,2
+C-02191,Cottonwood Outdoors #22,Bountiful,UT,Outdoor Retail,2
+C-02192,Pinnacle Outdoor Group #17,Salt Lake City,UT,Outdoor Retail,2
+C-02193,Riverbend Outdoors #19,Bountiful,UT,Outdoor Retail,2
+C-02194,Cascade Outdoor Supply #24,Cottonwood Heights,UT,Outdoor Retail,3
+C-02195,Ridge & Pine Sports #24,Cedar City,UT,Outdoor Retail,3
+C-02196,Beaver Mountain Operations #17,Boulder,CO,Resort,2
+C-02197,Highline Outfitters #19,Bountiful,UT,Outdoor Retail,2
+C-02198,Sage Brush Outfitters #39,Vernal,UT,Outdoor Retail,3
+C-02199,Highline Outfitters #20,Bozeman,MT,Outdoor Retail,3
+C-02200,Ogden Valley Schools #16,Casper,WY,School District,2
+C-02201,Salt Lake City School District #24,Boise,ID,School District,2
+C-02202,Granite Peak Gear #24,Heber City,UT,Outdoor Retail,2
+C-02203,Echo Canyon Outdoor #31,Moab,UT,Outdoor Retail,2
+C-02204,Iron County School District #23,St. George,UT,School District,3
+C-02205,Alta Lodge Group #9,Cheyenne,WY,Resort,1
+C-02206,Granite School District #21,Provo,UT,School District,3
+C-02207,Wasatch Mountain Goods #22,Sandy,UT,Outdoor Retail,2
+C-02208,Uinta Highline Outfitters #5,Cedar City,UT,Outfitter,2
+C-02209,Tooele County Schools #15,Boise,ID,School District,3
+C-02210,Bear Lake Charter Co #13,St. George,UT,Outfitter,2
+C-02211,Powder Mountain Operations #7,Heber City,UT,Resort,3
+C-02212,Brighton Resort Co #17,Logan,UT,Resort,2
+C-02213,Bear Lake Charter Co #14,Sandy,UT,Outfitter,2
+C-02214,Timberline Sports #23,Boise,ID,Outdoor Retail,2
+C-02215,Strawberry Reservoir Charter #4,Idaho Falls,ID,Outfitter,1
+C-02216,Wasatch Adventure Co #3,Cottonwood Heights,UT,Outfitter,2
+C-02217,Iron County School District #24,Reno,NV,School District,2
+C-02218,Bear Lake Charter Co #15,Ogden,UT,Outfitter,2
+C-02219,Tooele County Schools #16,Aspen,CO,School District,2
+C-02220,Cottonwood Heights ISD #13,Reno,NV,School District,2
+C-02221,Ridge & Pine Sports #25,Pocatello,ID,Outdoor Retail,1
+C-02222,Snowbird Resort Operations #13,Reno,NV,Resort,3
+C-02223,Granite Peak Gear #25,Jackson,WY,Outdoor Retail,2
+C-02224,Big Cottonwood Guide Service #6,Logan,UT,Outfitter,4
+C-02225,Wasatch Adventure Co #4,Carson City,NV,Outfitter,1
+C-02226,Powder Mountain Operations #8,Vernal,UT,Resort,2
+C-02227,Park City School District #17,Ogden,UT,School District,2
+C-02228,Sage Brush Outfitters #40,Moab,UT,Outdoor Retail,2
+C-02229,Riverbend Outdoors #20,Heber City,UT,Outdoor Retail,1
+C-02230,Snowbird Resort Operations #14,Reno,NV,Resort,3
+C-02231,Brian Head Resort #18,Vernal,UT,Resort,2
+C-02232,Pinnacle Outdoor Group #18,Park City,UT,Outdoor Retail,2
+C-02233,Powder Mountain Operations #9,Sandy,UT,Resort,2
+C-02234,Riverbend Outdoors #21,Phoenix,AZ,Outdoor Retail,2
+C-02235,Granite Peak Gear #26,Ogden,UT,Outdoor Retail,2
+C-02236,Big Cottonwood Guide Service #7,Casper,WY,Outfitter,2
+C-02237,Brian Head Resort #19,Tucson,AZ,Resort,2
+C-02238,Cascade Outdoor Supply #25,Moab,UT,Outdoor Retail,3
+C-02239,Cache Valley Education Co-op #26,Vernal,UT,School District,2
+C-02240,Cascade Outdoor Supply #26,Aspen,CO,Outdoor Retail,2
+C-02241,Salt Lake City School District #25,Cedar City,UT,School District,2
+C-02242,Echo Canyon Outdoor #32,Tucson,AZ,Outdoor Retail,4
+C-02243,Solitude Mountain Group #14,Pocatello,ID,Resort,2
+C-02244,Moab Desert Outfitters #8,Helena,MT,Outfitter,2
+C-02245,Beaver Mountain Operations #18,Tooele,UT,Resort,2
+C-02246,Cache Valley Education Co-op #27,Tucson,AZ,School District,1
+C-02247,Glacier Trade Outpost #30,Park City,UT,Outdoor Retail,2
+C-02248,Iron County School District #25,Casper,WY,School District,3
+C-02249,Boulder Field Sports #17,Helena,MT,Outdoor Retail,2
+C-02250,Echo Canyon Outdoor #33,Logan,UT,Outdoor Retail,3
+C-02251,Brighton Resort Co #18,Phoenix,AZ,Resort,2
+C-02252,Wasatch Mountain Goods #23,Tucson,AZ,Outdoor Retail,3
+C-02253,Basin Outdoor Co #24,Boise,ID,Outdoor Retail,3
+C-02254,Boulder Field Sports #18,Logan,UT,Outdoor Retail,2
+C-02255,Ridge & Pine Sports #26,Boise,ID,Outdoor Retail,4
+C-02256,Snowbird Resort Operations #15,Salt Lake City,UT,Resort,2
+C-02257,Boulder Field Sports #19,Moab,UT,Outdoor Retail,2
+C-02258,Glacier Trade Outpost #31,Idaho Falls,ID,Outdoor Retail,1
+C-02259,Timberline Sports #24,Idaho Falls,ID,Outdoor Retail,4
+C-02260,Eagle Point Resort #11,Durango,CO,Resort,3
+C-02261,Summit Edge Retail #21,Idaho Falls,ID,Outdoor Retail,2
+C-02262,Wasatch Mountain Goods #24,Sandy,UT,Outdoor Retail,2
+C-02263,Eagle Point Resort #12,Heber City,UT,Resort,2
+C-02264,Brian Head Resort #20,Las Vegas,NV,Resort,2
+C-02265,Provo City School District #26,Bozeman,MT,School District,3
+C-02266,Timberline Sports #25,Phoenix,AZ,Outdoor Retail,4
+C-02267,Basin Outdoor Co #25,Reno,NV,Outdoor Retail,3
+C-02268,Provo City School District #27,Cedar City,UT,School District,2
+C-02269,Highline Outfitters #21,Vail,CO,Outdoor Retail,2
+C-02270,Brighton Resort Co #19,Phoenix,AZ,Resort,1
+C-02271,Alta Lodge Group #10,Tooele,UT,Resort,3
+C-02272,Provo Canyon Guides #3,Helena,MT,Outfitter,2
+C-02273,Wasatch Adventure Co #5,Layton,UT,Outfitter,2
+C-02274,Ogden Valley Schools #17,Cottonwood Heights,UT,School District,3
+C-02275,Summit Edge Retail #22,Ogden,UT,Outdoor Retail,2
+C-02276,Glacier Trade Outpost #32,Boulder,CO,Outdoor Retail,3
+C-02277,Mirror Lake Outfitters #8,Layton,UT,Outfitter,2
+C-02278,Ridge & Pine Sports #27,Helena,MT,Outdoor Retail,2
+C-02279,Sage Brush Outfitters #41,Moab,UT,Outdoor Retail,2
+C-02280,Ogden Valley Schools #18,Reno,NV,School District,3
+C-02281,Granite Peak Gear #27,Boise,ID,Outdoor Retail,2
+C-02282,Wasatch County School District #19,Carson City,NV,School District,3
+C-02283,Cottonwood Heights ISD #14,Twin Falls,ID,School District,2
+C-02284,Highline Outfitters #22,Reno,NV,Outdoor Retail,2
+C-02285,Brian Head Resort #21,Vernal,UT,Resort,4
+C-02286,Wasatch Adventure Co #6,Heber City,UT,Outfitter,4
+C-02287,Wasatch Mountain Goods #25,Aspen,CO,Outdoor Retail,2
+C-02288,Ogden Valley Schools #19,Layton,UT,School District,3
+C-02289,Sage Brush Outfitters #42,Casper,WY,Outdoor Retail,4
+C-02290,Ogden Valley Schools #20,Vernal,UT,School District,2
+C-02291,Eagle Point Resort #13,Cottonwood Heights,UT,Resort,2
+C-02292,Pinnacle Outdoor Group #19,Heber City,UT,Outdoor Retail,3
+C-02293,Bear Lake Charter Co #16,Bozeman,MT,Outfitter,4
+C-02294,Summit Edge Retail #23,Casper,WY,Outdoor Retail,2
+C-02295,Cottonwood Heights ISD #15,Pocatello,ID,School District,2
+C-02296,Cottonwood Outdoors #23,Salt Lake City,UT,Outdoor Retail,2
+C-02297,Snowbird Resort Operations #16,Idaho Falls,ID,Resort,2
+C-02298,Highline Outfitters #23,Twin Falls,ID,Outdoor Retail,1
+C-02299,Park City School District #18,Boulder,CO,School District,3
+C-02300,Big Cottonwood Guide Service #8,Vail,CO,Outfitter,2
+C-02301,Ridge & Pine Sports #28,Cottonwood Heights,UT,Outdoor Retail,3
+C-02302,Brian Head Resort #22,Salt Lake City,UT,Resort,2
+C-02303,Basin Outdoor Co #26,Heber City,UT,Outdoor Retail,1
+C-02304,Wasatch County School District #20,Casper,WY,School District,3
+C-02305,Summit Edge Retail #24,Sandy,UT,Outdoor Retail,2
+C-02306,Solitude Mountain Group #15,Durango,CO,Resort,2
+C-02307,Powder Mountain Operations #10,Salt Lake City,UT,Resort,2
+C-02308,Basin Outdoor Co #27,St. George,UT,Outdoor Retail,3
+C-02309,Snowbird Resort Operations #17,Vail,CO,Resort,3
+C-02310,Lake Powell Houseboats #10,Las Vegas,NV,Outfitter,4
+C-02311,Cascade Outdoor Supply #27,Aspen,CO,Outdoor Retail,2
+C-02312,Pinnacle Outdoor Group #20,Logan,UT,Outdoor Retail,2
+C-02313,Brighton Resort Co #20,Logan,UT,Resort,2
+C-02314,Davis County Schools #13,Cottonwood Heights,UT,School District,3
+C-02315,Summit Edge Retail #25,Park City,UT,Outdoor Retail,2
+C-02316,Cottonwood Outdoors #24,Cheyenne,WY,Outdoor Retail,2
+C-02317,Mirror Lake Outfitters #9,Boise,ID,Outfitter,4
+C-02318,Summit Edge Retail #26,Missoula,MT,Outdoor Retail,3
+C-02319,Glacier Trade Outpost #33,Moab,UT,Outdoor Retail,2
+C-02320,Summit Edge Retail #27,Cedar City,UT,Outdoor Retail,2
+C-02321,Logan River Outfitters #5,Cottonwood Heights,UT,Outfitter,4
+C-02322,Eagle Point Resort #14,Durango,CO,Resort,2
+C-02323,Granite Peak Gear #28,Helena,MT,Outdoor Retail,2
+C-02324,Beaver Mountain Operations #19,Reno,NV,Resort,3
+C-02325,Summit Edge Retail #28,Casper,WY,Outdoor Retail,2
+C-02326,Timberline Sports #26,Cheyenne,WY,Outdoor Retail,4
+C-02327,Cascade Outdoor Supply #28,Salt Lake City,UT,Outdoor Retail,3
+C-02328,Park City School District #19,Ogden,UT,School District,3
+C-02329,Brighton Resort Co #21,Boulder,CO,Resort,2
+C-02330,Eagle Point Resort #15,Durango,CO,Resort,3
+C-02331,Summit Edge Retail #29,Moab,UT,Outdoor Retail,2
+C-02332,Park City Mountain Lodge #22,Provo,UT,Resort,2
+C-02333,Iron County School District #26,Denver,CO,School District,2
+C-02334,Snowbird Resort Operations #18,Carson City,NV,Resort,2
+C-02335,Logan River Outfitters #6,Boise,ID,Outfitter,1
+C-02336,Granite Peak Gear #29,Helena,MT,Outdoor Retail,2
+C-02337,Park City School District #20,Las Vegas,NV,School District,3
+C-02338,Big Cottonwood Guide Service #9,Park City,UT,Outfitter,2
+C-02339,Granite School District #22,Boulder,CO,School District,3
+C-02340,Iron County School District #27,Layton,UT,School District,2
+C-02341,Basin Outdoor Co #28,Phoenix,AZ,Outdoor Retail,4
+C-02342,Eagle Point Resort #16,Missoula,MT,Resort,2
+C-02343,Cascade Outdoor Supply #29,Ogden,UT,Outdoor Retail,2
+C-02344,Cottonwood Outdoors #25,Missoula,MT,Outdoor Retail,2
+C-02345,Cottonwood Outdoors #26,Cheyenne,WY,Outdoor Retail,2
+C-02346,Park City School District #21,Logan,UT,School District,3
+C-02347,Cache Valley Education Co-op #28,Cottonwood Heights,UT,School District,3
+C-02348,Cottonwood Heights ISD #16,Tucson,AZ,School District,3
+C-02349,Cottonwood Heights ISD #17,Moab,UT,School District,2
+C-02350,Wasatch Adventure Co #7,Salt Lake City,UT,Outfitter,1
+C-02351,Cache Valley Education Co-op #29,Ogden,UT,School District,3
+C-02352,Cottonwood Outdoors #27,Park City,UT,Outdoor Retail,2
+C-02353,Solitude Mountain Group #16,Bozeman,MT,Resort,2
+C-02354,Cottonwood Outdoors #28,Missoula,MT,Outdoor Retail,2
+C-02355,Eagle Point Resort #17,Reno,NV,Resort,3
+C-02356,Riverbend Outdoors #22,Casper,WY,Outdoor Retail,1
+C-02357,Iron County School District #28,Jackson,WY,School District,2
+C-02358,Summit Edge Retail #30,Sandy,UT,Outdoor Retail,2
+C-02359,Boulder Field Sports #20,Park City,UT,Outdoor Retail,4
+C-02360,Cottonwood Outdoors #29,Vernal,UT,Outdoor Retail,2
+C-02361,Timberline Sports #27,Provo,UT,Outdoor Retail,3
+C-02362,Alta Lodge Group #11,Moab,UT,Resort,2
+C-02363,Eagle Point Resort #18,Cheyenne,WY,Resort,4
+C-02364,Bear Lake Charter Co #17,Salt Lake City,UT,Outfitter,3
+C-02365,Glacier Trade Outpost #34,Vernal,UT,Outdoor Retail,2
+C-02366,Strawberry Reservoir Charter #5,Pocatello,ID,Outfitter,4
+C-02367,Sage Brush Outfitters #43,Vail,CO,Outdoor Retail,2
+C-02368,Ogden Valley Schools #21,Vernal,UT,School District,2
+C-02369,Cottonwood Heights ISD #18,Reno,NV,School District,3
+C-02370,Holladay Bait & Tackle #12,Flagstaff,AZ,Outfitter,2
+C-02371,Pinnacle Outdoor Group #21,Tooele,UT,Outdoor Retail,2
+C-02372,Basin Outdoor Co #29,Tucson,AZ,Outdoor Retail,2
+C-02373,Beaver Mountain Operations #20,Twin Falls,ID,Resort,2
+C-02374,Holladay Bait & Tackle #13,Moab,UT,Outfitter,2
+C-02375,Boulder Field Sports #21,Carson City,NV,Outdoor Retail,2
+C-02376,Provo City School District #28,Bountiful,UT,School District,2
+C-02377,Brighton Resort Co #22,Tucson,AZ,Resort,2
+C-02378,Highline Outfitters #24,Pocatello,ID,Outdoor Retail,2
+C-02379,Logan River Outfitters #7,Durango,CO,Outfitter,1
+C-02380,Echo Canyon Outdoor #34,Boise,ID,Outdoor Retail,2
+C-02381,Powder Mountain Operations #11,Pocatello,ID,Resort,2
+C-02382,Alta Lodge Group #12,Vernal,UT,Resort,2
+C-02383,Granite School District #23,Vail,CO,School District,2
+C-02384,Beaver Mountain Operations #21,Aspen,CO,Resort,1
+C-02385,Timberline Sports #28,Tucson,AZ,Outdoor Retail,2
+C-02386,Deer Valley Hospitality #18,Denver,CO,Resort,2
+C-02387,Brian Head Resort #23,St. George,UT,Resort,2
+C-02388,Uinta Highline Outfitters #6,Vail,CO,Outfitter,1
+C-02389,Davis County Schools #14,Cheyenne,WY,School District,2
+C-02390,Strawberry Reservoir Charter #6,Tooele,UT,Outfitter,2
+C-02391,Provo Canyon Guides #4,Moab,UT,Outfitter,1
+C-02392,Park City School District #22,Cottonwood Heights,UT,School District,2
+C-02393,Ridge & Pine Sports #29,Park City,UT,Outdoor Retail,2
+C-02394,Tooele County Schools #17,Casper,WY,School District,3
+C-02395,Summit Edge Retail #31,Vernal,UT,Outdoor Retail,1
+C-02396,Moab Desert Outfitters #9,Pocatello,ID,Outfitter,2
+C-02397,Brian Head Resort #24,Flagstaff,AZ,Resort,1
+C-02398,Granite Peak Gear #30,Vail,CO,Outdoor Retail,1
+C-02399,Davis County Schools #15,Ogden,UT,School District,3
+C-02400,Mirror Lake Outfitters #10,Park City,UT,Outfitter,2
+C-02401,Ridge & Pine Sports #30,Tooele,UT,Outdoor Retail,2
+C-02402,Provo City School District #29,Bozeman,MT,School District,2
+C-02403,Highline Outfitters #25,Las Vegas,NV,Outdoor Retail,2
+C-02404,Timberline Sports #29,Ogden,UT,Outdoor Retail,2
+C-02405,Holladay Bait & Tackle #14,Cottonwood Heights,UT,Outfitter,3
+C-02406,Cottonwood Outdoors #30,Layton,UT,Outdoor Retail,2
+C-02407,Wasatch Mountain Goods #26,Logan,UT,Outdoor Retail,2
+C-02408,Wasatch Mountain Goods #27,Boulder,CO,Outdoor Retail,3
+C-02409,Wasatch Mountain Goods #28,Heber City,UT,Outdoor Retail,3
+C-02410,Cottonwood Heights ISD #19,Cottonwood Heights,UT,School District,3
+C-02411,Sage Brush Outfitters #44,Tucson,AZ,Outdoor Retail,2
+C-02412,Riverbend Outdoors #23,Reno,NV,Outdoor Retail,2
+C-02413,Echo Canyon Outdoor #35,Salt Lake City,UT,Outdoor Retail,3
+C-02414,Cottonwood Heights ISD #20,Las Vegas,NV,School District,2
+C-02415,Wasatch Mountain Goods #29,Casper,WY,Outdoor Retail,2
+C-02416,Cascade Outdoor Supply #30,Aspen,CO,Outdoor Retail,4
+C-02417,Basin Outdoor Co #30,Casper,WY,Outdoor Retail,2
+C-02418,Eagle Point Resort #19,Tucson,AZ,Resort,3
+C-02419,Tooele County Schools #18,Durango,CO,School District,3
+C-02420,Bear Lake Charter Co #18,Ogden,UT,Outfitter,1
+C-02421,Snowbird Resort Operations #19,Park City,UT,Resort,2
+C-02422,Sage Brush Outfitters #45,Sandy,UT,Outdoor Retail,2
+C-02423,Lake Powell Houseboats #11,Logan,UT,Outfitter,2
+C-02424,Basin Outdoor Co #31,Tucson,AZ,Outdoor Retail,2
+C-02425,Sage Brush Outfitters #46,Bountiful,UT,Outdoor Retail,2
+C-02426,Brighton Resort Co #23,Jackson,WY,Resort,2
+C-02427,Riverbend Outdoors #24,Denver,CO,Outdoor Retail,3
+C-02428,Boulder Field Sports #22,Salt Lake City,UT,Outdoor Retail,2
+C-02429,Boulder Field Sports #23,Salt Lake City,UT,Outdoor Retail,2
+C-02430,Salt Lake City School District #26,Missoula,MT,School District,3
+C-02431,Bear Lake Charter Co #19,Carson City,NV,Outfitter,4
+C-02432,Sage Brush Outfitters #47,Cheyenne,WY,Outdoor Retail,2
+C-02433,Sundance Resort #15,Cedar City,UT,Resort,2
+C-02434,Glacier Trade Outpost #35,Tucson,AZ,Outdoor Retail,2
+C-02435,Beaver Mountain Operations #22,Pocatello,ID,Resort,3
+C-02436,Beaver Mountain Operations #23,Aspen,CO,Resort,4
+C-02437,Granite Peak Gear #31,Tucson,AZ,Outdoor Retail,2
+C-02438,Boulder Field Sports #24,Pocatello,ID,Outdoor Retail,2
+C-02439,Boulder Field Sports #25,Provo,UT,Outdoor Retail,3
+C-02440,Cache Valley Education Co-op #30,St. George,UT,School District,2
+C-02441,Cottonwood Outdoors #31,Cheyenne,WY,Outdoor Retail,2
+C-02442,Highline Outfitters #26,Missoula,MT,Outdoor Retail,2
+C-02443,Park City Mountain Lodge #23,Reno,NV,Resort,2
+C-02444,Granite Peak Gear #32,Cottonwood Heights,UT,Outdoor Retail,2
+C-02445,Salt Lake City School District #27,Reno,NV,School District,3
+C-02446,Mirror Lake Outfitters #11,Logan,UT,Outfitter,2
+C-02447,Solitude Mountain Group #17,Ogden,UT,Resort,2
+C-02448,Granite School District #24,Flagstaff,AZ,School District,2
+C-02449,Sage Brush Outfitters #48,Heber City,UT,Outdoor Retail,1
+C-02450,Cascade Outdoor Supply #31,Phoenix,AZ,Outdoor Retail,2
+C-02451,Davis County Schools #16,Heber City,UT,School District,3
+C-02452,Pinnacle Outdoor Group #22,Las Vegas,NV,Outdoor Retail,2
+C-02453,Powder Mountain Operations #12,Salt Lake City,UT,Resort,2
+C-02454,Echo Canyon Outdoor #36,Layton,UT,Outdoor Retail,2
+C-02455,Granite Peak Gear #33,Bountiful,UT,Outdoor Retail,3
+C-02456,Summit Edge Retail #32,Reno,NV,Outdoor Retail,2
+C-02457,Highline Outfitters #27,Flagstaff,AZ,Outdoor Retail,2
+C-02458,Tooele County Schools #19,Twin Falls,ID,School District,2
+C-02459,Logan River Outfitters #8,Helena,MT,Outfitter,1
+C-02460,Big Cottonwood Guide Service #10,Vail,CO,Outfitter,3
+C-02461,Wasatch Adventure Co #8,St. George,UT,Outfitter,2
+C-02462,Granite Peak Gear #34,Park City,UT,Outdoor Retail,3
+C-02463,Beaver Mountain Operations #24,Tucson,AZ,Resort,2
+C-02464,Timberline Sports #30,St. George,UT,Outdoor Retail,2
+C-02465,Deer Valley Hospitality #19,Bozeman,MT,Resort,3
+C-02466,Sundance Resort #16,Helena,MT,Resort,2
+C-02467,Wasatch Mountain Goods #30,Moab,UT,Outdoor Retail,2
+C-02468,Cottonwood Outdoors #32,Carson City,NV,Outdoor Retail,3
+C-02469,Cottonwood Outdoors #33,Moab,UT,Outdoor Retail,2
+C-02470,Granite School District #25,Tucson,AZ,School District,2
+C-02471,Ogden Valley Schools #22,Tooele,UT,School District,3
+C-02472,Brighton Resort Co #24,Phoenix,AZ,Resort,2
+C-02473,Iron County School District #29,Boise,ID,School District,3
+C-02474,Wasatch County School District #21,Reno,NV,School District,3
+C-02475,Wasatch Adventure Co #9,Vernal,UT,Outfitter,3
+C-02476,Echo Canyon Outdoor #37,Salt Lake City,UT,Outdoor Retail,1
+C-02477,Cottonwood Outdoors #34,Phoenix,AZ,Outdoor Retail,3
+C-02478,Boulder Field Sports #26,Boulder,CO,Outdoor Retail,1
+C-02479,Holladay Bait & Tackle #15,Tooele,UT,Outfitter,1
+C-02480,Granite Peak Gear #35,Sandy,UT,Outdoor Retail,2
+C-02481,Riverbend Outdoors #25,Phoenix,AZ,Outdoor Retail,2
+C-02482,Wasatch Mountain Goods #31,Vernal,UT,Outdoor Retail,1
+C-02483,Salt Lake City School District #28,Reno,NV,School District,2
+C-02484,Granite School District #26,Provo,UT,School District,2
+C-02485,Wasatch County School District #22,Logan,UT,School District,3
+C-02486,Eagle Point Resort #20,Denver,CO,Resort,2
+C-02487,Granite Peak Gear #36,Vernal,UT,Outdoor Retail,3
+C-02488,Riverbend Outdoors #26,Carson City,NV,Outdoor Retail,2
+C-02489,Tooele County Schools #20,Cheyenne,WY,School District,2
+C-02490,Davis County Schools #17,Idaho Falls,ID,School District,2
+C-02491,Wasatch Mountain Goods #32,Park City,UT,Outdoor Retail,3
+C-02492,Bear Lake Charter Co #20,Tooele,UT,Outfitter,2
+C-02493,Salt Lake City School District #29,Boulder,CO,School District,1
+C-02494,Park City Mountain Lodge #24,Cottonwood Heights,UT,Resort,3
+C-02495,Echo Canyon Outdoor #38,Las Vegas,NV,Outdoor Retail,3
+C-02496,Cascade Outdoor Supply #32,Tucson,AZ,Outdoor Retail,2
+C-02497,Wasatch Adventure Co #10,Salt Lake City,UT,Outfitter,3
+C-02498,Cottonwood Heights ISD #21,Flagstaff,AZ,School District,3
+C-02499,Tooele County Schools #21,Tucson,AZ,School District,3
