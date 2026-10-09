@@ -1,0 +1,16 @@
+SUMMIT GEAR CO.
+Accounting Policy Memo AP-07: Allowance for Doubtful Accounts
+Effective: December 1, 2024 (restates the practice in place since the ERP go-live, January 1, 2024)
+Owner: Controller
+
+Policy
+1. The allowance for doubtful accounts is 2 percent of gross trade receivables at each
+   quarter-end. The rate reflects the write-off history of the predecessor system.
+2. A receivable is written off at the first month-end on which it is 180 or more days
+   past due. The remaining balance is charged to the allowance. A later receipt on a
+   written-off invoice is credited back to the allowance; there were none in the
+   periods this ledger covers.
+3. Each quarter-end, bad debt expense (the provision) is recorded for the amount that
+   brings the allowance to 2 percent of gross receivables after that quarter's
+   write-offs.
+4. The Controller reviews the rate annually.

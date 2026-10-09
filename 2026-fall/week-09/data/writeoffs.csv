@@ -1,0 +1,212 @@
+writeoff_id,invoice_id,customer_id,written_off_on,amount,reason
+WO-00001,INV-2024-002864,C-01222,2024-07-31,89.51,"Short-payment deduction, 180 days past due"
+WO-00002,INV-2024-009230,C-01707,2024-07-31,2558.33,180 days past due
+WO-00003,INV-2024-002441,C-01186,2024-08-31,259.04,"Short-payment deduction, 180 days past due"
+WO-00004,INV-2024-007631,C-01593,2024-08-31,110.52,"Short-payment deduction, 180 days past due"
+WO-00005,INV-2024-008035,C-01621,2024-08-31,110.94,"Short-payment deduction, 180 days past due"
+WO-00006,INV-2024-008068,C-01623,2024-08-31,3397.44,180 days past due
+WO-00007,INV-2024-008762,C-01672,2024-08-31,4238.97,180 days past due
+WO-00008,INV-2024-010711,C-01811,2024-08-31,221.79,"Short-payment deduction, 180 days past due"
+WO-00009,INV-2024-012323,C-01927,2024-08-31,180.61,"Short-payment deduction, 180 days past due"
+WO-00010,INV-2024-014000,C-02052,2024-08-31,200.00,"Short-payment deduction, 180 days past due"
+WO-00011,INV-2024-015138,C-02145,2024-08-31,2974.09,180 days past due
+WO-00012,INV-2024-015328,C-02163,2024-08-31,339.19,"Short-payment deduction, 180 days past due"
+WO-00013,INV-2024-015656,C-02189,2024-08-31,231.22,"Short-payment deduction, 180 days past due"
+WO-00014,INV-2024-015796,C-02197,2024-08-31,178.88,"Short-payment deduction, 180 days past due"
+WO-00015,INV-2024-016086,C-02218,2024-08-31,72.75,"Short-payment deduction, 180 days past due"
+WO-00016,INV-2024-000437,C-01033,2024-09-30,73.74,"Short-payment deduction, 180 days past due"
+WO-00017,INV-2024-001557,C-01119,2024-09-30,5601.00,180 days past due
+WO-00018,INV-2024-003979,C-01305,2024-09-30,285.24,"Short-payment deduction, 180 days past due"
+WO-00019,INV-2024-004588,C-01359,2024-09-30,160.10,"Short-payment deduction, 180 days past due"
+WO-00020,INV-2024-008763,C-01672,2024-09-30,1437.33,180 days past due
+WO-00021,INV-2024-012906,C-01964,2024-09-30,171.31,"Short-payment deduction, 180 days past due"
+WO-00022,INV-2024-015504,C-02174,2024-09-30,166.44,"Short-payment deduction, 180 days past due"
+WO-00023,INV-2024-017803,C-02345,2024-09-30,140.25,"Short-payment deduction, 180 days past due"
+WO-00024,INV-2024-018287,C-02382,2024-09-30,10218.23,180 days past due
+WO-00025,INV-2024-019426,C-02457,2024-09-30,5732.13,180 days past due
+WO-00026,INV-2024-019452,C-02459,2024-09-30,153.85,"Short-payment deduction, 180 days past due"
+WO-00027,INV-2024-019482,C-02460,2024-09-30,108.19,"Short-payment deduction, 180 days past due"
+WO-00028,INV-2024-000585,C-01044,2024-10-31,192.25,"Short-payment deduction, 180 days past due"
+WO-00029,INV-2024-001149,C-01089,2024-10-31,39.00,"Short-payment deduction, 180 days past due"
+WO-00030,INV-2024-002042,C-01158,2024-10-31,330.00,"Short-payment deduction, 180 days past due"
+WO-00031,INV-2024-002288,C-01172,2024-10-31,209.78,"Short-payment deduction, 180 days past due"
+WO-00032,INV-2024-010156,C-01765,2024-10-31,13664.05,180 days past due
+WO-00033,INV-2024-010463,C-01793,2024-10-31,347.20,"Short-payment deduction, 180 days past due"
+WO-00034,INV-2024-011084,C-01838,2024-10-31,141.05,"Short-payment deduction, 180 days past due"
+WO-00035,INV-2024-018774,C-02415,2024-10-31,261.79,"Short-payment deduction, 180 days past due"
+WO-00036,INV-2024-018978,C-02428,2024-10-31,291.89,"Short-payment deduction, 180 days past due"
+WO-00037,INV-2024-002211,C-01168,2024-11-30,108.13,"Short-payment deduction, 180 days past due"
+WO-00038,INV-2024-002410,C-01183,2024-11-30,249.65,"Short-payment deduction, 180 days past due"
+WO-00039,INV-2024-003778,C-01287,2024-11-30,5564.96,180 days past due
+WO-00040,INV-2024-007735,C-01601,2024-11-30,172.01,"Short-payment deduction, 180 days past due"
+WO-00041,INV-2024-008221,C-01634,2024-11-30,7650.52,180 days past due
+WO-00042,INV-2024-011085,C-01838,2024-11-30,164.13,"Short-payment deduction, 180 days past due"
+WO-00043,INV-2024-011191,C-01844,2024-11-30,176.67,"Short-payment deduction, 180 days past due"
+WO-00044,INV-2024-013655,C-02026,2024-11-30,384.76,"Short-payment deduction, 180 days past due"
+WO-00045,INV-2024-014401,C-02082,2024-11-30,294.51,"Short-payment deduction, 180 days past due"
+WO-00046,INV-2024-014477,C-02086,2024-11-30,112.46,"Short-payment deduction, 180 days past due"
+WO-00047,INV-2024-015139,C-02145,2024-11-30,4076.47,180 days past due
+WO-00048,INV-2024-019644,C-02472,2024-11-30,209.00,"Short-payment deduction, 180 days past due"
+WO-00049,INV-2024-000363,C-01027,2024-12-31,15109.38,180 days past due
+WO-00050,INV-2024-001932,C-01149,2024-12-31,10930.96,180 days past due
+WO-00051,INV-2024-003415,C-01260,2024-12-31,201.74,"Short-payment deduction, 180 days past due"
+WO-00052,INV-2024-003799,C-01289,2024-12-31,285.95,"Short-payment deduction, 180 days past due"
+WO-00053,INV-2024-004552,C-01357,2024-12-31,147.92,"Short-payment deduction, 180 days past due"
+WO-00054,INV-2024-006617,C-01510,2024-12-31,161.19,"Short-payment deduction, 180 days past due"
+WO-00055,INV-2024-008737,C-01670,2024-12-31,280.84,"Short-payment deduction, 180 days past due"
+WO-00056,INV-2024-015414,C-02168,2024-12-31,4601.81,180 days past due
+WO-00057,INV-2024-017152,C-02296,2024-12-31,1165.65,180 days past due
+WO-00058,INV-2024-017681,C-02336,2024-12-31,362.73,"Short-payment deduction, 180 days past due"
+WO-00059,INV-2024-018869,C-02422,2024-12-31,137.47,"Short-payment deduction, 180 days past due"
+WO-00060,INV-2024-001463,C-01111,2025-01-31,108.50,"Short-payment deduction, 180 days past due"
+WO-00061,INV-2024-003849,C-01294,2025-01-31,194.92,"Short-payment deduction, 180 days past due"
+WO-00062,INV-2024-008473,C-01652,2025-01-31,189.51,"Short-payment deduction, 180 days past due"
+WO-00063,INV-2024-008927,C-01684,2025-01-31,5401.57,180 days past due
+WO-00064,INV-2024-012154,C-01912,2025-01-31,108.99,"Short-payment deduction, 180 days past due"
+WO-00065,INV-2024-012653,C-01951,2025-01-31,92.95,"Short-payment deduction, 180 days past due"
+WO-00066,INV-2024-016281,C-02234,2025-01-31,56.55,"Short-payment deduction, 180 days past due"
+WO-00067,INV-2024-016824,C-02273,2025-01-31,146.16,"Short-payment deduction, 180 days past due"
+WO-00068,INV-2024-000044,C-01003,2025-02-28,177.81,"Short-payment deduction, 180 days past due"
+WO-00069,INV-2024-002142,C-01164,2025-02-28,293.25,"Short-payment deduction, 180 days past due"
+WO-00070,INV-2024-005871,C-01453,2025-02-28,186.27,"Short-payment deduction, 180 days past due"
+WO-00071,INV-2024-006210,C-01476,2025-02-28,3227.52,180 days past due
+WO-00072,INV-2024-007819,C-01608,2025-02-28,145.46,"Short-payment deduction, 180 days past due"
+WO-00073,INV-2024-008059,C-01622,2025-02-28,38.82,"Short-payment deduction, 180 days past due"
+WO-00074,INV-2024-008986,C-01688,2025-02-28,148.88,"Short-payment deduction, 180 days past due"
+WO-00075,INV-2024-009441,C-01719,2025-02-28,1764.30,180 days past due
+WO-00076,INV-2024-011607,C-01871,2025-02-28,1784.28,180 days past due
+WO-00077,INV-2024-014743,C-02108,2025-02-28,234.77,"Short-payment deduction, 180 days past due"
+WO-00078,INV-2024-009212,C-01705,2025-03-31,305.56,"Short-payment deduction, 180 days past due"
+WO-00079,INV-2024-015285,C-02160,2025-03-31,160.93,"Short-payment deduction, 180 days past due"
+WO-00080,INV-2024-017988,C-02361,2025-03-31,225.92,"Short-payment deduction, 180 days past due"
+WO-00081,INV-2024-003632,C-01275,2025-04-30,130.44,"Short-payment deduction, 180 days past due"
+WO-00082,INV-2024-005334,C-01415,2025-04-30,72.45,"Short-payment deduction, 180 days past due"
+WO-00083,INV-2024-008588,C-01658,2025-04-30,270.01,"Short-payment deduction, 180 days past due"
+WO-00084,INV-2024-014213,C-02067,2025-04-30,341.07,"Short-payment deduction, 180 days past due"
+WO-00085,INV-2024-014369,C-02079,2025-04-30,3911.94,180 days past due
+WO-00086,INV-2024-014953,C-02127,2025-04-30,3206.59,180 days past due
+WO-00087,INV-2024-016627,C-02258,2025-04-30,3392.18,180 days past due
+WO-00088,INV-2024-004308,C-01336,2025-05-31,234.42,"Short-payment deduction, 180 days past due"
+WO-00089,INV-2024-006152,C-01473,2025-05-31,166.01,"Short-payment deduction, 180 days past due"
+WO-00090,INV-2024-006225,C-01477,2025-05-31,308.23,"Short-payment deduction, 180 days past due"
+WO-00091,INV-2024-008769,C-01672,2025-05-31,5574.20,180 days past due
+WO-00092,INV-2024-009746,C-01740,2025-05-31,115.02,"Short-payment deduction, 180 days past due"
+WO-00093,INV-2024-010824,C-01818,2025-05-31,85.73,"Short-payment deduction, 180 days past due"
+WO-00094,INV-2024-011608,C-01871,2025-05-31,277.06,"Short-payment deduction, 180 days past due"
+WO-00095,INV-2024-013260,C-01991,2025-05-31,177.70,"Short-payment deduction, 180 days past due"
+WO-00096,INV-2024-014954,C-02127,2025-05-31,6150.49,180 days past due
+WO-00097,INV-2024-019409,C-02456,2025-05-31,164.72,"Short-payment deduction, 180 days past due"
+WO-00098,INV-2024-000312,C-01021,2025-06-30,2067.42,180 days past due
+WO-00099,INV-2024-004227,C-01328,2025-06-30,42.83,"Short-payment deduction, 180 days past due"
+WO-00100,INV-2024-007523,C-01582,2025-06-30,366.00,"Short-payment deduction, 180 days past due"
+WO-00101,INV-2024-008790,C-01673,2025-06-30,361.61,"Short-payment deduction, 180 days past due"
+WO-00102,INV-2024-011291,C-01849,2025-06-30,3120.26,180 days past due
+WO-00103,INV-2024-016454,C-02245,2025-06-30,76.40,"Short-payment deduction, 180 days past due"
+WO-00104,INV-2024-018303,C-02384,2025-06-30,88.37,"Short-payment deduction, 180 days past due"
+WO-00105,INV-2024-019606,C-02468,2025-06-30,70.87,"Short-payment deduction, 180 days past due"
+WO-00106,INV-2024-001502,C-01114,2025-07-31,233.10,"Short-payment deduction, 180 days past due"
+WO-00107,INV-2024-001822,C-01137,2025-07-31,271.22,"Short-payment deduction, 180 days past due"
+WO-00108,INV-2024-003677,C-01279,2025-07-31,63.63,"Short-payment deduction, 180 days past due"
+WO-00109,INV-2024-008167,C-01629,2025-07-31,325.61,"Short-payment deduction, 180 days past due"
+WO-00110,INV-2024-008877,C-01679,2025-07-31,163.58,"Short-payment deduction, 180 days past due"
+WO-00111,INV-2024-010098,C-01760,2025-07-31,182.32,"Short-payment deduction, 180 days past due"
+WO-00112,INV-2024-010613,C-01803,2025-07-31,192.56,"Short-payment deduction, 180 days past due"
+WO-00113,INV-2024-011013,C-01833,2025-07-31,148.86,"Short-payment deduction, 180 days past due"
+WO-00114,INV-2024-011913,C-01891,2025-07-31,9129.27,180 days past due
+WO-00115,INV-2024-015792,C-02196,2025-07-31,66.96,"Short-payment deduction, 180 days past due"
+WO-00116,INV-2024-017403,C-02316,2025-07-31,87.66,"Short-payment deduction, 180 days past due"
+WO-00117,INV-2024-019821,C-02484,2025-07-31,9018.28,180 days past due
+WO-00118,INV-2025-000248,C-01016,2025-07-31,135.54,"Short-payment deduction, 180 days past due"
+WO-00119,INV-2025-005360,C-01417,2025-07-31,4939.64,180 days past due
+WO-00120,INV-2025-006195,C-01475,2025-07-31,253.14,"Short-payment deduction, 180 days past due"
+WO-00121,INV-2024-004546,C-01356,2025-08-31,5056.40,180 days past due
+WO-00122,INV-2025-002671,C-01208,2025-08-31,188.91,"Short-payment deduction, 180 days past due"
+WO-00123,INV-2025-003943,C-01301,2025-08-31,6607.00,180 days past due
+WO-00124,INV-2025-003960,C-01303,2025-08-31,368.62,"Short-payment deduction, 180 days past due"
+WO-00125,INV-2025-004041,C-01311,2025-08-31,3828.42,180 days past due
+WO-00126,INV-2025-008770,C-01672,2025-08-31,3759.67,180 days past due
+WO-00127,INV-2025-014186,C-02064,2025-08-31,2576.15,180 days past due
+WO-00128,INV-2025-005281,C-01409,2025-09-30,93.95,"Short-payment deduction, 180 days past due"
+WO-00129,INV-2025-009170,C-01702,2025-09-30,4490.31,180 days past due
+WO-00130,INV-2025-009989,C-01755,2025-09-30,820.40,180 days past due
+WO-00131,INV-2025-010826,C-01818,2025-09-30,125.95,"Short-payment deduction, 180 days past due"
+WO-00132,INV-2025-014421,C-02083,2025-09-30,136.78,"Short-payment deduction, 180 days past due"
+WO-00133,INV-2025-015017,C-02132,2025-09-30,152.55,"Short-payment deduction, 180 days past due"
+WO-00134,INV-2025-015144,C-02145,2025-09-30,1766.29,180 days past due
+WO-00135,INV-2025-016406,C-02242,2025-09-30,222.75,"Short-payment deduction, 180 days past due"
+WO-00136,INV-2025-016583,C-02255,2025-09-30,235.39,"Short-payment deduction, 180 days past due"
+WO-00137,INV-2025-017404,C-02316,2025-09-30,201.87,"Short-payment deduction, 180 days past due"
+WO-00138,INV-2025-000459,C-01034,2025-10-31,27.61,"Short-payment deduction, 180 days past due"
+WO-00139,INV-2025-000794,C-01061,2025-10-31,326.66,"Short-payment deduction, 180 days past due"
+WO-00140,INV-2025-004916,C-01383,2025-10-31,257.14,"Short-payment deduction, 180 days past due"
+WO-00141,INV-2025-007587,C-01587,2025-10-31,154.34,"Short-payment deduction, 180 days past due"
+WO-00142,INV-2025-007662,C-01595,2025-10-31,304.20,"Short-payment deduction, 180 days past due"
+WO-00143,INV-2025-008197,C-01631,2025-10-31,36.87,"Short-payment deduction, 180 days past due"
+WO-00144,INV-2025-013059,C-01975,2025-10-31,176.11,"Short-payment deduction, 180 days past due"
+WO-00145,INV-2025-013610,C-02022,2025-10-31,333.00,"Short-payment deduction, 180 days past due"
+WO-00146,INV-2025-014597,C-02095,2025-10-31,134.19,"Short-payment deduction, 180 days past due"
+WO-00147,INV-2025-016895,C-02278,2025-10-31,135.04,"Short-payment deduction, 180 days past due"
+WO-00148,INV-2025-018070,C-02366,2025-10-31,4125.74,180 days past due
+WO-00149,INV-2025-001343,C-01103,2025-11-30,238.25,"Short-payment deduction, 180 days past due"
+WO-00150,INV-2025-010158,C-01765,2025-11-30,373.93,"Short-payment deduction, 180 days past due"
+WO-00151,INV-2025-011953,C-01893,2025-11-30,4024.26,180 days past due
+WO-00152,INV-2025-018187,C-02374,2025-11-30,2248.86,180 days past due
+WO-00153,INV-2025-001158,C-01089,2025-12-31,5300.33,180 days past due
+WO-00154,INV-2025-004639,C-01362,2025-12-31,296.00,"Short-payment deduction, 180 days past due"
+WO-00155,INV-2025-006644,C-01511,2025-12-31,149.17,"Short-payment deduction, 180 days past due"
+WO-00156,INV-2025-008481,C-01652,2025-12-31,160.24,"Short-payment deduction, 180 days past due"
+WO-00157,INV-2025-009325,C-01712,2025-12-31,111.67,"Short-payment deduction, 180 days past due"
+WO-00158,INV-2025-014188,C-02064,2025-12-31,6432.12,180 days past due
+WO-00159,INV-2025-014376,C-02079,2025-12-31,1535.59,180 days past due
+WO-00160,INV-2025-015080,C-02139,2025-12-31,98.21,"Short-payment deduction, 180 days past due"
+WO-00161,INV-2025-019112,C-02436,2025-12-31,113.02,"Short-payment deduction, 180 days past due"
+WO-00162,INV-2025-001159,C-01089,2026-01-31,7758.87,180 days past due
+WO-00163,INV-2025-001565,C-01119,2026-01-31,2164.72,180 days past due
+WO-00164,INV-2025-003330,C-01251,2026-01-31,2033.92,180 days past due
+WO-00165,INV-2025-006460,C-01498,2026-01-31,71.20,"Short-payment deduction, 180 days past due"
+WO-00166,INV-2025-007663,C-01595,2026-01-31,172.15,"Short-payment deduction, 180 days past due"
+WO-00167,INV-2025-009453,C-01719,2026-01-31,283.89,"Short-payment deduction, 180 days past due"
+WO-00168,INV-2025-010807,C-01816,2026-01-31,382.91,"Short-payment deduction, 180 days past due"
+WO-00169,INV-2025-012628,C-01948,2026-01-31,375.80,"Short-payment deduction, 180 days past due"
+WO-00170,INV-2025-014638,C-02100,2026-01-31,8603.88,180 days past due
+WO-00171,INV-2025-015146,C-02145,2026-01-31,6213.37,180 days past due
+WO-00172,INV-2025-015516,C-02174,2026-01-31,126.37,"Short-payment deduction, 180 days past due"
+WO-00173,INV-2025-017855,C-02350,2026-01-31,770.32,180 days past due
+WO-00174,INV-2025-019436,C-02457,2026-01-31,113.98,"Short-payment deduction, 180 days past due"
+WO-00175,INV-2025-000411,C-01030,2026-02-28,171.55,"Short-payment deduction, 180 days past due"
+WO-00176,INV-2025-001125,C-01087,2026-02-28,5604.63,180 days past due
+WO-00177,INV-2025-008775,C-01672,2026-02-28,5640.40,180 days past due
+WO-00178,INV-2025-009893,C-01749,2026-02-28,215.68,"Short-payment deduction, 180 days past due"
+WO-00179,INV-2025-002170,C-01165,2026-03-31,80.74,"Short-payment deduction, 180 days past due"
+WO-00180,INV-2025-004176,C-01323,2026-03-31,378.23,"Short-payment deduction, 180 days past due"
+WO-00181,INV-2025-006346,C-01486,2026-03-31,137.86,"Short-payment deduction, 180 days past due"
+WO-00182,INV-2025-007181,C-01550,2026-03-31,219.94,"Short-payment deduction, 180 days past due"
+WO-00183,INV-2025-012900,C-01963,2026-03-31,361.04,"Short-payment deduction, 180 days past due"
+WO-00184,INV-2025-015880,C-02202,2026-03-31,5639.15,180 days past due
+WO-00185,INV-2025-018944,C-02425,2026-03-31,263.04,"Short-payment deduction, 180 days past due"
+WO-00186,INV-2025-003428,C-01260,2026-04-30,184.54,"Short-payment deduction, 180 days past due"
+WO-00187,INV-2025-006201,C-01475,2026-04-30,130.39,"Short-payment deduction, 180 days past due"
+WO-00188,INV-2025-011627,C-01872,2026-04-30,276.15,"Short-payment deduction, 180 days past due"
+WO-00189,INV-2025-014123,C-02059,2026-04-30,262.73,"Short-payment deduction, 180 days past due"
+WO-00190,INV-2025-014962,C-02127,2026-04-30,2069.72,180 days past due
+WO-00191,INV-2025-015563,C-02178,2026-04-30,118.71,"Short-payment deduction, 180 days past due"
+WO-00192,INV-2025-001301,C-01100,2026-05-31,4496.43,180 days past due
+WO-00193,INV-2025-004045,C-01311,2026-05-31,3668.87,180 days past due
+WO-00194,INV-2025-007152,C-01548,2026-05-31,4816.35,180 days past due
+WO-00195,INV-2025-013525,C-02013,2026-05-31,233.41,"Short-payment deduction, 180 days past due"
+WO-00196,INV-2025-014640,C-02100,2026-05-31,75.46,"Short-payment deduction, 180 days past due"
+WO-00197,INV-2025-017721,C-02339,2026-05-31,141.41,"Short-payment deduction, 180 days past due"
+WO-00198,INV-2025-018255,C-02379,2026-05-31,4621.03,180 days past due
+WO-00199,INV-2025-001145,C-01088,2026-06-30,215.49,"Short-payment deduction, 180 days past due"
+WO-00200,INV-2025-001368,C-01104,2026-06-30,83.96,"Short-payment deduction, 180 days past due"
+WO-00201,INV-2025-002573,C-01196,2026-06-30,2533.28,180 days past due
+WO-00202,INV-2025-003690,C-01279,2026-06-30,75.98,"Short-payment deduction, 180 days past due"
+WO-00203,INV-2025-005420,C-01420,2026-06-30,119.18,"Short-payment deduction, 180 days past due"
+WO-00204,INV-2025-005596,C-01432,2026-06-30,58.77,"Short-payment deduction, 180 days past due"
+WO-00205,INV-2025-008865,C-01678,2026-06-30,99.56,"Short-payment deduction, 180 days past due"
+WO-00206,INV-2025-009000,C-01688,2026-06-30,104.17,"Short-payment deduction, 180 days past due"
+WO-00207,INV-2025-011893,C-01888,2026-06-30,4278.83,180 days past due
+WO-00208,INV-2025-015084,C-02139,2026-06-30,153.89,"Short-payment deduction, 180 days past due"
+WO-00209,INV-2025-016944,C-02281,2026-06-30,310.80,"Short-payment deduction, 180 days past due"
+WO-00210,INV-2025-018733,C-02411,2026-06-30,288.09,"Short-payment deduction, 180 days past due"
+WO-00211,INV-2025-018786,C-02415,2026-06-30,5141.14,180 days past due
