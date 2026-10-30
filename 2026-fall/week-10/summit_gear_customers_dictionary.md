@@ -22,7 +22,7 @@ the account's attributes. `defaulted` is Week 11's target. Ignore it this week.
 | `prior_late_count` | number (invoices) | Count of prior invoices the account paid late. |
 | `days_since_last_order` | number (days) | Days since the account's most recent order. |
 | `orders_per_year` | number (orders) | Orders the account places per year. |
-| `discount_rate` | number (percent) | Average discount rate offered to the account. 3.5 means 3.5 percent. |
+| `discount_rate` | number (percent) | Average discount rate offered to the account. 3.5 means 3.5%. |
 | `avg_order_value` | number ($) | Average dollar value per order. |
 | `noise_a` | number | An auxiliary field from the data export. |
 | `noise_b` | number | An auxiliary field from the data export. |
