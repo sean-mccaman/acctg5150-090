@@ -13,7 +13,7 @@ invoice is paid, so it is not a predictor this week.
 
 Every predictor is measured as of the start of the period: counts and limits on that date,
 and averages and totals over the 12 months before it. `defaulted` records write-offs during
-the period that follows. So a review list made at the start of the period can use every
+the 12 months that follow, which this dictionary calls the period. So a review list made at the start of the period can use every
 predictor, and cannot use `defaulted` or `days_to_pay`.
 
 ## Columns
